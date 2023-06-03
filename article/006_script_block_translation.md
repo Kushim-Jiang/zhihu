@@ -287,6 +287,7 @@
 - Warang Citi・瓦朗奇蒂文字
   - Warang Citi: U+118A0–U+118FF・瓦朗奇蒂
   > Warang Citi 来自霍语 Hbårŋ citi (warang chiti)，译作「瓦朗奇蒂」。
+  >
   > <https://www.unicode.org/L2/L2012/12118-n4259-warang-citi.pdf>
 
 - Ol Chiki・奥尔奇基文字
@@ -308,6 +309,7 @@
 - Masaram Gondi・马萨拉姆贡德文字
   - Masaram Gondi: U+11D00–U+11D5F・马萨拉姆贡德
   > Masaram 为人名，来自 मासाराम (māsārām)，依据《印地汉译音表》译作「马萨拉姆」。Gondi 来自贡德人所讲的贡德语。
+  >
   > 中国社会科学院民族研究所, 世界民族研究室资料组. 世界民族词目集录 [M].
 
 - Gunjala Gondi・贡贾尔贡德文字
@@ -317,6 +319,7 @@
 - Wancho・万乔文字
   - Wancho: U+1E2C0–U+1E2FF・万乔
   > Wancho 来自万乔语 wanco /wanʧɔ/，依据《印地汉译音表》译作「万乔」。
+  >
   > 中国民族语言学报 第 1 辑 [M]. 2017.
 
 - Toto・托托文字
@@ -694,6 +697,7 @@
   - Indic Siyaq Numbers: U+1EC70–U+1ECBF・印度帐目数字
   - Ottoman Siyaq Numbers: U+1ED00–U+1ED4F・奥斯曼帐目数字
   > Siyâq 是萨珊名词 Siyâk（流水账）经阿拉伯文化之后的形式，它今天读作 siyah、siyahè 或 sikhè-hissab，即「记录」、「数目」或「账目」。
+  >
   > 阿里・玛扎海里. 丝绸之路 中国 波斯文化交流史 [M]. 2014.
   - Counting Rod Numerals: U+1D360–U+1D37F・算筹数字
   - Number Forms: U+2150–U+218F・数字形式

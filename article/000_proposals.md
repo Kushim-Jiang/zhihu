@@ -50,8 +50,16 @@
   * **Kushim JIANG**. Proposal to add two characters and change the status field of one character in UAX #45 [EB/OL]. [L2/21-178](http://www.unicode.org/L2/L2021/21178-jiang-two-characters.pdf).
   * **Kushim JIANG**. Response to three feedbacks to IRG N2510 [EB/OL]. [IRG N2510 Response](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg58/IRGN2510_KJresponse.pdf).
 * Unicode. Error Report: CJK chart 4E30 mixed up [EB/OL]. [IRG N2539](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg58/IRGN2539_4E30Issue.pdf).
-  * Kushim JIANG. Feedback on Response to Feedback on the Error Report [EB/OL]. [IRG N2539 Feedback](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg58/IRGN2539KushimFeedbck.pdf).
-  * **Kushim JIANG**, Eiso CHAN, Yi BAI, Tianheng SHEN. Proposal to maintain an evidence collection system in ORT [EB/OL]. [IRG N2607R](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg60/IRGN2607_evidence_collection.pdf).
+  * **Kushim JIANG**. Feedback on Response to Feedback on the Error Report [EB/OL]. [IRG N2539 Feedback](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg58/IRGN2539KushimFeedbck.pdf).
+* IRG. IRG WS2021 Version 4.0 [EB/OL]. IRG N2581.
+  * Tianheng SHEN. About the Encoding Model on Han Ligatures [EB/OL]. [IRG N2581 Tianheng Feedback](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg60/IRGN2581FeedbackHanLigatures.pdf).
+  * **Kushim JIANG**. Feedback on the Encoding Model of Han Ligatures [EB/OL]. [IRG N2606 Kushim Feedback 2](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg61/IRGN2606KushimFeedback-cjk-ligature.pdf).
+* **Kushim JIANG**, Eiso CHAN, Yi BAI, Tianheng SHEN. Proposal to maintain an evidence collection system in ORT [EB/OL]. [IRG N2607R](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg60/IRGN2607_evidence_collection.pdf).
+* IRG. IRG WS2021 Version 5.0 [EB/OL]. IRG N2606.
+  * **Kushim JIANG**. Review of Studies on WS2021-00001 [EB/OL]. [IRG N2606 Kushim Feedback](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg61/IRGN2606KushimFeedback-ws2021-00001.pdf).
+* Gen KOJITANI. Script-hybrid and abreviated CJK letters [EB/OL]. [IRG N2637](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg61/IRGN2637.pdf).
+  * **Kushim JIANG**. Feedback on hybrid characters [EB/OL]. [IRG N2637 Kushim Feedback](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg61/IRGN2637KushimFeedback-hybrid-cjk.pdf).
+* **Kushim JIANG**. Proposal to Update Reference Glyphs [EB/OL]. [IRG N2642](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg61/IRGN2642-update-3-characters.pdf).
 
 #### Latin
 

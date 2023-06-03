@@ -1,6 +1,6 @@
-# 路径图文种名、符号名与块名翻译
+### 路径图文种名、符号名与块名翻译
 
-## Scripts・文字
+#### Scripts・文字
 
 - **SMP**
 
@@ -59,6 +59,7 @@
   - Tulu-Tigalari・图卢蒂格拉里文字
     - Tulu-Tigalari: [U+11380–U+113FF]・图卢蒂格拉里
     > Tulu 来自图卢语 Tulu，依据《印地汉译音表》译作「图卢」。Tigalari 来自图卢语 Tigaḷāri，依据《印地汉译音表》译作「蒂格拉里」。
+    >
     > 陈永龄 (主编). 民族词典 [M]. 1987.
 
   - Tani・塔尼文字
@@ -73,7 +74,7 @@
 
   - 〓Jenticha・杰蒂切文字
     - Jenticha: [U+116D0–U+116FF]・杰蒂切
-    > Jenticha 来自松瓦尔语 Jẽtica，依据《印地汉译音表》译作「杰蒂切」。
+    > Jenticha 来自苏努瓦尔语 Jẽtica，依据《印地汉译音表》译作「杰蒂切」。
 
   - 〓Ahom・阿含文字
     - Ahom Extension: [U+11740–U+1174F]・阿含扩充
@@ -260,9 +261,9 @@
   - Loma・洛马文字
     - Loma: [U+1E300–U+1E41F]・洛马
 
-  - Bagam・巴甘文字
-    - Bagam: [U+1E420–U+1E4CF]・巴甘
-    > 陈永龄 (主编). 民族词典 [M]. 1987.
+  - Bagam・巴加姆文字
+    - Bagam: [U+1E420–U+1E4CF]・巴加姆
+    > 张荣生 (编译). 非洲雕刻 [M]. 1986.
 
   - Pungchen・邦钦体文字
     - Pungchen: [U+1E500–U+1E52F]・邦钦体
@@ -316,7 +317,7 @@
 
   - Tărtăria・特尔特里亚文字
 
-## Notational Systems・记号系统
+#### Notational Systems・记号系统
 
 - **SMP**
 
@@ -339,7 +340,7 @@
     - Jianzi Format Controls: [U+1DAE0–U+1DAFF]・减字格式控制符
     - Jianzi Musical Notation: [U+1DB00–U+1DC8F]・减字音乐记号
 
-## Symbols・符号
+#### Symbols・符号
 
 - **SMP**
 
