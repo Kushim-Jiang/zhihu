@@ -74,9 +74,13 @@
 #### Tai Don
 
 * **Kushim JIANG**. Preliminary proposal to encode the Tai Khao script in UCS [EB/OL]. [L2/20-207](https://www.unicode.org/L2/L2020/20207-tai-khao.pdf).
+  * Jim BRASE. Writing Tai Don: Additional characters needed for the Tai Viet script [EB/OL]. [L2/08-217](https://www.unicode.org/L2/L2008/08217-tai-don.pdf).
   * Jim BRASE. A response to Kushim Jiang, “Preliminary proposal to encode the Tai Khao script in UCS” [EB/OL]. [L2/20-208](https://www.unicode.org/L2/L2020/20208-tai-khao-response.pdf).
 * **Kushim JIANG**. Updated proposal to encode the Tai Don script [EB/OL]. [L2/22-098](http://www.unicode.org/L2/L2022/22098-tai-don.pdf).
+  * Jim BRASE. Comments on “Updated proposal to encode the Tai Don script in UCS” [EB/OL]. [L2/22-099](https://www.unicode.org/L2/L2022/22099-tai-don-comment.pdf).
 * **Kushim JIANG**. Final proposal to add 22 characters for Tai Don writing system [EB/OL]. [L2/22-210](http://www.unicode.org/L2/L2022/22210-tai-don-script.pdf).
+  * Eiso CHAN. Comments on the Tai Don or Tai Khao encoding [EB/OL]. [L2/22-272](https://www.unicode.org/L2/L2022/22272-tai-don-comments.pdf).
+  * Jim BRASE. Response to Eiso Chan’s “Comments on the Tai Don or Tai Khao encoding” [EB/OL]. [L2/22-273](https://www.unicode.org/L2/L2022/22273-tai-don-cmt-response.pdf).
 * **Kushim JIANG**. Proposal to encode additional Tai Viet characters for the Jinping Dai [EB/OL]. [L2/23-023](http://www.unicode.org/L2/L2023/23023-add-tai-viet.pdf).
 
 #### Mongolian

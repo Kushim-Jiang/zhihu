@@ -17,9 +17,6 @@
     - Todhri: [U+105C0–U+105FF]・托兹里
     > Todhri 为阿尔巴尼亚语 Todhri /ˈtoðri/，依据《阿尔巴尼亚汉译音表》译作「托兹里」。
 
-  - Rejang・雷姜文字
-    - Rejang Extended: [U+107C0–U+107FF]・雷姜扩充
-
   - Proto-Sinaitic・原始西奈文字
     - Proto-Sinaitic: [U+108B0–U+108DF]・原始西奈
 
@@ -46,11 +43,11 @@
     - Garay: [U+10D40–U+10D8F]・加拉伊
     > Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》译作「加拉伊」。
 
-  - Byblos・比布鲁斯文字
+  - 〓Byblos・比布鲁斯文字
     - Byblos: [U+10D90–U+10DFF]・比布鲁斯
 
   - Arabic・阿拉伯文字
-    - Arabic Extended-C: [U+10EC0–U+10EFF]・阿拉伯扩充-C
+    - Arabic Extended-D: [U+10D90–U+10E5F]・阿拉伯扩充-D
 
   - Landa・伦达文字
     - Landa: [U+11250–U+1127F]・伦达
@@ -80,7 +77,7 @@
     - Ahom Extension: [U+11740–U+1174F]・阿含扩充
 
   - Zou・藻文字
-    - Zou: [U+11700–U+117AF]・藻文
+    - Zou: [U+11750–U+117AF]・藻文
 
   - Pyu・彪文字
     - Pyu: [U+117B0–U+117FF]・彪文
@@ -94,11 +91,11 @@
     > Vatteluttu 来自泰米尔语 Vaṭṭeḻuttu，依据《缅甸汉译音表》译作「沃泰卢图」。
 
   - Sharada・沙勒德文字
-    - Sharada Extension: [U+11B50–U+11B6F]・沙勒德扩充
+    - Sharada Supplement: [U+11B60–U+11B7F]・沙勒德增补
 
-  - Tolong Siki・托隆西基文字
-    - Tolong Siki: [U+11B80–U+11BBF]・托隆西基
-    > Tolong Siki 来自库鲁克语 Toloṅ Siki，依据《印地汉译音表》译作「托隆西基」。
+  - Leke・莱革文字
+    - Leke: [U+11B80–U+11BBF]・莱革
+    > Leke 来源待考，暂依据《泰汉译音表》译作「莱革」。
 
   - Sunuwar・苏努瓦尔
     - Sunuwar: [U+11BC0–U+11BFF]・苏努瓦尔
@@ -111,9 +108,9 @@
   - Balti-B・巴尔蒂-B 文字
     - Balti-B: [U+11CC0–U+11CFF]・巴尔蒂-B
 
-  - Leke・莱革文字
-    - Leke: [U+11DB0–U+11DEF]・莱革
-    > Leke 来源待考，暂依据《泰汉译音表》译作「莱革」。
+  - Tolong Siki・托隆西基文字
+    - Tolong Siki: [U+11DB0–U+11DEF]・托隆西基
+    > Tolong Siki 来自库鲁克语 Toloṅ Siki，依据《印地汉译音表》译作「托隆西基」。
 
   - Tocharian・吐火罗文字
     - Tocharian: [U+11E00–U+11E6F]・吐火罗
@@ -125,23 +122,14 @@
     - Pallava: [U+11F60–U+11FAF]・帕拉瓦
 
   - Sumero-Akkadian・苏美尔-阿卡德文字
-    - Proto-Cuneiform: [U+12580–U+12DFF]・原始楔形文字
-
-  - Indus・印度河文字
-    - Indus: [U+12E00–U+12F8F]・印度河文
+    - Proto-Cuneiform: [U+12580–U+12ECF]・原始楔形文字
 
   - Egyptian Hieroglyphs・埃及圣书体文字
-    - Egyptian Hieroglyphs Extended-A: [U+13440–U+143FF]・埃及圣书体扩充-A
+    - Egyptian Hieroglyphs Extended-A: [U+13460–U+143FF]・埃及圣书体扩充-A
     - Egyptian Hieroglyphs Extended-B: [U+14680–U+151FF]・埃及圣书体扩充-B
 
   - Mayan Hieroglyphs・玛雅象形文字
     - Mayan Hieroglyphs: [U+15500–U+15AFF]・玛雅象形文字
-
-  - Lampung・楠榜文字
-    - Lampung: [U+15B00–U+15B3F]・楠榜
-
-  - Kerinci・葛林芝文字
-    - Kerinci: [U+15B40–U+15B6F]・葛林芝
 
   - Mandombe・曼东贝文字
     - Mandombe: [U+15B80–U+15FFF]・曼东贝
@@ -158,6 +146,10 @@
   - Gurung Khema・古隆凯玛文字
     - Gurung Khema: [U+16100–U+1613F]・古隆凯玛
     > Khema 来自古隆语 Khema [kʰemaː]，依据《印地汉译音表》译作「凯玛」。又 Khema 可能来源于人名 Khemā，按《欧亚备要・尼雅遗址与于阗史研究》译作「支摩」，待考。
+
+  - Kurux Banna・库鲁赫巴纳文字
+    - Kurux Banna: [U+16140–U+1618F]・库鲁赫巴纳
+    > Banna 来自库鲁赫语 Bannā [banaː]，依据《印地汉译音表》译作「巴纳」。
 
   - 〓Khe Prih・凯普里赫文字
     - Khe Prih: [U+16140–U+1617F]・凯普里赫
@@ -189,10 +181,6 @@
     - Chisoi: [U+16D80–U+16DAF]・奇索伊
     > Chisoi 来自库尔马利语 (kurhmaali /kuɽmali/) cisai /tʃisɔi/，依据《孟加拉汉译音表》译作「奇索伊」。
 
-  - Lontara Bilang-bilang・隆塔拉比朗比朗文字
-    - Lontara Bilang-bilang: [U+16DB0–U+16DCF]・隆塔拉比朗比朗
-    > 依据《印度尼西亚汉译音表》译作「隆塔拉比朗比朗」。
-
   - Kulitan・库利坦文字
     - Kulitan: [U+16DD0–U+16DFF]・库利坦
     > 依据《他加禄汉译音表》译作「库利坦」。
@@ -201,8 +189,8 @@
     - Mwangwego: [U+16E00–U+16E3F]・姆万圭戈
     > 依据《班图汉译音表》译作「姆万圭戈」。
 
-  - Buginese・布吉文字
-    - Buginese Supplement: [U+16EA0–U+16EFF]・布吉增补
+  - Beria・贝里亚文字
+    - Beria: [U+16EA0–U+16ECF]・贝里亚
 
   - Bopomofo・注音字母
     - Bopomofo Extension-A: [U+16FA0–U+16FAF]・注音字母扩充-A
@@ -210,8 +198,11 @@
   - Han・汉字
     - Kanbun Extended-A: [U+16FB0–U+16FDF]・汉文扩充-A
 
+- Tangut・西夏文字
+  - Tangut Components Supplement: [U+18D80–U+18DFF]・西夏构件增补
+
   - Khitan Ideographs・契丹大字
-    - Khitan Ideographs: [U+18D90–U+195FF]・契丹大字
+    - Khitan Ideographs: [U+18E00–U+195FF]・契丹大字
 
   - Jurchen・女真文字
     - Jurchen: [U+19600–U+19B9F]・女真
@@ -222,6 +213,9 @@
   - Eskaya・埃斯卡亚文字
     - Eskaya: [U+1A300–U+1A75F]・埃斯卡亚
 
+  - Rejang・雷姜文字
+    - Rejang Extended: [U+1A760–U+1A77F]・雷姜扩充
+
   - Kaida・假屋文字
     - Kaida: [U+1A780–U+1A7FF]・假屋
     > Kaida 来自「カイダ」，来自「カリヤ」（仮屋）。
@@ -230,7 +224,7 @@
     - Naxi Dongba: [U+1A800–U+1ACFF]・纳西东巴
 
   - Naxi Geba・纳西哥巴文字
-    - Naxi Geba: [U+1AD00–U+1AFFF]・纳西哥巴
+    - Naxi Geba: [U+1AD00–U+1AFCF]・纳西哥巴
 
   - Hiragana and Katakana・平假名与片假名
     - Kana Extended-C: [U+1AFD0–U+1AFEF]・假名扩充-C
@@ -241,13 +235,16 @@
   - Lisu Syllabic・傈僳音节文字
     - Lisu Syllabic: [U+1B600–U+1B9FF]・傈僳音节文字
 
+  - Indus・印度河文字
+    - Indus: [U+1BA00–U+1BB8F]・印度河文
+
   - Proto-Elamite・原始埃兰文字
     - Proto-Elamite: [U+1BD00–U+1C37F]・原始埃兰
 
   - Linear Elamite・线形埃兰文字
-    - Linear Elamite: [U+1C380–U+1C3CF]・线形埃兰
+    - Linear Elamite: [U+1C380–U+1C4FF]・线形埃兰
 
-  - Rongorongo・罗鄂罗鄂文字
+  - 〓Rongorongo・罗鄂罗鄂文字
     - Rongorongo: [U+1CA80–U+1CDBF]・罗鄂罗鄂
     > Rongorongo 来自拉帕努伊语，由于拉帕努伊语的音节结构为 \[C\]V，不存在复辅音或辅音韵尾，因而音节为 ro·ngo·ro·ngo，依据《高棉汉译音表》译作「罗鄂罗鄂」。
 
@@ -290,15 +287,25 @@
   - Yo Lai Tay・傣侥文字
     - Yo Lai Tay: [U+1E6C0–U+1E6FF]・傣侥
 
-  - Beria・贝里亚文字
-    - Beria: [U+1E700–U+1E72F]・贝里亚
+  - Lampung・楠榜文字
+    - Lampung: [U+1E700–U+1E73F]・楠榜
+
+  - Kerinci・葛林芝文字
+    - Kerinci: [U+1E740–U+1E76F]・葛林芝
+
+  - Buginese・布吉文字
+    - Buginese Supplement: [U+1E770–U+1E7BF]・布吉增补
+
+  - Lontara Bilang-bilang・隆塔拉比朗比朗文字
+    - Lontara Bilang-bilang: [U+1E7C0–U+1E7DF]・隆塔拉比朗比朗
+    > 依据《印度尼西亚汉译音表》译作「隆塔拉比朗比朗」。
 
 - **TIP**
 
   - Small Seal・小篆
-    - Small Seal: [U+31400–U+342FF]・小篆
+    - Small Seal: [U+38000–U+3AB9F]・小篆
 
-  - Oracle Bone・甲骨文字
+  - 〓Oracle Bone・甲骨文字
     - Oracle Bone: [U+34400–U+35BFF]・甲骨
 
 - **Not the Roadmap**
@@ -325,7 +332,7 @@
     - Moon: [U+161A0–U+161FF]・穆恩盲文
 
   - Blissymbols・布利斯符号
-    - Blissymbols: [U+16200–U+1677F]・布利斯符号
+    - Blissymbols: [U+16200–U+167FF]・布利斯符号
 
   - Pitman Shorthand・皮特曼速记
     - Pitman Shorthand: [U+1BCB0–U+1BCFF]・皮特曼速记
@@ -349,11 +356,11 @@
     - Arabic Supplemental Symbols: [U+1EF00–U+1EF3F]・阿拉伯增补符号
 
   - Numerals・数字
-    - Kaktovik Numerals: [U+1D2C0–U+1D2DF]・卡克托维克数字
     - Persian Siyaq Numbers: [U+1EC00–U+1EC6F]・波斯帐目数字
     - Diwani Siyaq Numbers: [U+1ECC0–U+1ECFF]・迪万尼帐目数字
     > 「迪万（Diwan）」指莫卧儿时期民政总长官，「迪万尼（diwani）」指民事或税收大臣。
 
   - Miscellaneous Symbols・各式符号
     - Symbols for Legacy Computing Supplement: [U+1CC00–U+1CEBF]・遗留计算机增补符号
+    - Miscellaneous Symbols Supplement: [U+1CEC0–U+1CEFF]・各式符号增补
     - Extended Pictographic Characters: [U+1FC00–U+1FFFF]・扩充图形符号

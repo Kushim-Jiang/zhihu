@@ -98,7 +98,7 @@
   > 中国地图出版社. 中国地图集・中国世界地图集（社庆 60 年纪念套装，上）[M]. 2014.
 
 - Caucasian Albanian・高加索阿尔巴尼亚文字
-  - Caucasian Albanian・高加索阿尔巴尼亚
+  - Caucasian Albanian: U+10530–U+1056F・高加索阿尔巴尼亚
 
 - Vithkuqi・维斯库奇文字
   - Vithkuqi: U+10570–U+105BF・维斯库奇
@@ -125,6 +125,7 @@
   - Arabic Supplement: U+0750–U+077F・阿拉伯增补
   - Arabic Extended-A: U+08A0–U+08FF・阿拉伯扩充-A
   - Arabic Extended-B: U+0870–U+089F・阿拉伯扩充-B
+  - Arabic Extended-C: U+10EC0–U+10EFF・阿拉伯扩充-B
   - Arabic Presentation Forms-A: U+FB50–U+FDFF・阿拉伯显现形式-A
   - Arabic Presentation Forms-B: U+FE70–U+FEFF・阿拉伯显现形式-B
 
@@ -203,7 +204,7 @@
 
 - Egyptian Hieroglyphs・埃及圣书体文字
   - Egyptian Hieroglyphs: U+13000–U+1342F・埃及圣书体
-  - Egyptian Hieroglyph Format Controls: U+13430–U+1343F・埃及圣书体格式控制符
+  - Egyptian Hieroglyph Format Controls: U+13430–U+1345F・埃及圣书体格式控制符
 
 - Meroitic・麦罗埃文字
   - Meroitic Hieroglyphs: U+10980–U+1099F・麦罗埃圣书体
@@ -332,7 +333,7 @@
 ##### South and Central Asia-Ⅲ・南亚与中亚-Ⅲ
 
 - Brahmi・婆罗米文字
-  - Brahmi: U+11000–U+1106F・婆罗米
+  - Brahmi: U+11000–U+1107F・婆罗米
 
 - Kharoshthi・佉卢文字
   - Kharoshthi: U+10A00–U+10A5F・佉卢
@@ -426,7 +427,7 @@
   > Dives 即为迪维希语，Akuru 来自迪维希语 އަކުރު (‘akuru)，依据《僧伽罗汉译音表》译作「阿库鲁」。
 
 - Ahom・阿含文字
-  - Ahom: U+11700–U+1173F・阿含
+  - Ahom: U+11700–U+1174F・阿含
   > 杨光远. 十三世紀傣泰語言的語音系統研究 [M]. 2007.
 
 - Sora Sompeng・索拉索姆彭文字
@@ -477,7 +478,7 @@
   > Hmong 即苗语，Pahawh 来自 Phaj hauj /pʰa˥˨ hau˥˨/，译作「帕皓」。
 
 - Nyiakeng Puachue Hmong・涅该布瓦启苗文字
-  - Nyiakeng Puachue Hmong: U+1E100–U+1E4F・涅该布瓦启苗
+  - Nyiakeng Puachue Hmong: U+1E100–U+1E14F・涅该布瓦启苗
   > Nyiakeng Puachue 来自 Nyiajkeeb Puajtxwm /ɲia˥˨ kẽ˥ pua˥˨ tsɨ˨˩/，按声调译作「涅该布瓦启」。
 
 - Pau Cin Hau・包钦豪文字
@@ -529,15 +530,16 @@
 ##### East Asia・东亚
 
 - Han・汉字
-  - CJK Unified Ideographs: 4E00–9FFF・中日韩统一表意文字
-  - CJK Unified Ideographs Extension A: 3400–4DBF・中日韩统一表意文字扩充 A
-  - CJK Unified Ideographs Extension B: 20000–2A6DF・中日韩统一表意文字扩充 B
-  - CJK Unified Ideographs Extension C: 2A700–2B73F・中日韩统一表意文字扩充 C
-  - CJK Unified Ideographs Extension D: 2B740–2B81F・中日韩统一表意文字扩充 D
-  - CJK Unified Ideographs Extension E: 2B820–2CEAF・中日韩统一表意文字扩充 E
-  - CJK Unified Ideographs Extension F: 2CEB0–2EBEF・中日韩统一表意文字扩充 F
-  - CJK Unified Ideographs Extension G: 30000–3134F・中日韩统一表意文字扩充 G
-  - CJK Unified Ideographs Extension H: 31350–323AF・中日韩统一表意文字扩充 H
+  - CJK Unified Ideographs: U+4E00–U+9FFF・中日韩统一表意文字
+  - CJK Unified Ideographs Extension A: U+3400–U+4DBF・中日韩统一表意文字扩充 A
+  - CJK Unified Ideographs Extension B: U+20000–U+2A6DF・中日韩统一表意文字扩充 B
+  - CJK Unified Ideographs Extension C: U+2A700–U+2B73F・中日韩统一表意文字扩充 C
+  - CJK Unified Ideographs Extension D: U+2B740–U+2B81F・中日韩统一表意文字扩充 D
+  - CJK Unified Ideographs Extension E: U+2B820–U+2CEAF・中日韩统一表意文字扩充 E
+  - CJK Unified Ideographs Extension F: U+2CEB0–U+2EBEF・中日韩统一表意文字扩充 F
+  - CJK Unified Ideographs Extension G: U+30000–U+3134F・中日韩统一表意文字扩充 G
+  - CJK Unified Ideographs Extension H: U+31350–U+323AF・中日韩统一表意文字扩充 H
+  - CJK Unified Ideographs Extension I: U+2EBF0–U+2EE5F・中日韩统一表意文字扩充 I
   - CJK Compatibility Ideographs: U+F900–U+FAFF・中日韩兼容表意文字
   - CJK Compatibility Ideographs Supplement: U+2F800–U+2FA1D・中日韩兼容表意文字增补
   - Kanbun: U+3190–U+319F・汉文
@@ -588,7 +590,7 @@
 
 - Tangut・西夏文字
   - Tangut: U+17000–U+187FF・西夏
-  - Tangut Supplement: U+18D00–U+18D8F・西夏增补
+  - Tangut Supplement: U+18D00–U+18D7F・西夏增补
   - Tangut Components: U+18800–U+18AFF・西夏构件
 
 - Khitan Small Script・契丹小字
@@ -690,17 +692,24 @@
   - Arabic Mathematical Alphabetic Symbols: U+1EE00–U+1EEFF・阿拉伯数学字母符号
 
 - Numerals・数字
-  - Mayan Numerals: U+1D2E0–U+1D2FF・玛雅数字
+  - Decimal Digits・十进制数字
+  - Other Digits・其他数字
+  - Non-Decimal Radix Systems・非十进制基数系统
+    - Mayan Numerals: U+1D2E0–U+1D2FF・玛雅数字
+    - Kaktovik Numerals: U+1D2C0–U+1D2DF・卡克托维克数字
   - Coptic Epact Numbers: U+102E0–U+102FF・科普特闰余数字
   - Rumi Numeral Symbols: U+10E60–U+10E7F・鲁米数字符号
   > Rumi 来自 ﺍﻟﺮﻭﻣﻲ (ālrūmī)，依据《阿拉伯汉译音表》译作「鲁米」。
-  - Indic Siyaq Numbers: U+1EC70–U+1ECBF・印度帐目数字
-  - Ottoman Siyaq Numbers: U+1ED00–U+1ED4F・奥斯曼帐目数字
-  > Siyâq 是萨珊名词 Siyâk（流水账）经阿拉伯文化之后的形式，它今天读作 siyah、siyahè 或 sikhè-hissab，即「记录」、「数目」或「账目」。
-  >
-  > 阿里・玛扎海里. 丝绸之路 中国 波斯文化交流史 [M]. 2014.
-  - Counting Rod Numerals: U+1D360–U+1D37F・算筹数字
-  - Number Forms: U+2150–U+218F・数字形式
+  - Siyaq Numerical Notation Systems・帐目数字记号系统
+    - Indic Siyaq Numbers: U+1EC70–U+1ECBF・印度帐目数字
+    - Ottoman Siyaq Numbers: U+1ED00–U+1ED4F・奥斯曼帐目数字
+    > Siyâq 是萨珊名词 Siyâk（流水账）经阿拉伯文化之后的形式，它今天读作 siyah、siyahè 或 sikhè-hissab，即「记录」、「数目」或「账目」。
+    >
+    > 阿里・玛扎海里. 丝绸之路 中国 波斯文化交流史 [M]. 2014.
+  - CJK Numerals・中日韩数字
+    - Counting Rod Numerals: U+1D360–U+1D37F・算筹数字
+  - Fractions・分数
+    - Number Forms: U+2150–U+218F・数字形式
   - Common Indic Number Forms: U+A830–U+A83F・通用印度数字形式
 
 - Superscript and Subscript Symbols・上标与下标符号
@@ -759,6 +768,8 @@
 #### Special Areas and Format Characters・特殊区域与格式字符
 
 - Control Codes・控制码位
+  - C0 Controls: U+0000–U+001F・C0 控制符
+  - C1 Controls: U+0080–U+009F・C1 控制符
 
 - Layout Controls・布局控制符
 
