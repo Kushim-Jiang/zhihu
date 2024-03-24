@@ -43,9 +43,6 @@
     - Garay: [U+10D40–U+10D8F]・加拉伊
     > Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》译作「加拉伊」。
 
-  - 〓Byblos・比布鲁斯文字
-    - Byblos: [U+10D90–U+10DFF]・比布鲁斯
-
   - Arabic・阿拉伯文字
     - Arabic Extended-D: [U+10D90–U+10E5F]・阿拉伯扩充-D
 
@@ -189,8 +186,11 @@
     - Mwangwego: [U+16E00–U+16E3F]・姆万圭戈
     > 依据《班图汉译音表》译作「姆万圭戈」。
 
-  - Beria・贝里亚文字
-    - Beria: [U+16EA0–U+16ECF]・贝里亚
+  - Beria Erfe・贝里烙印文字
+    - Beria Erfe: [U+16EA0–U+16ECF]・贝里烙印文字
+    > Beria 中 Beri 指贝里人，-a 表示「嘴」。Erfe 表示烙印记号，即为牲畜打上烙印时使用的用于区分氏族的图案。
+    >
+    > 埃尔·法西 (主编). 非洲通史·第三卷——七世纪至十一世纪的非洲 [M]. 1993.
 
   - Bopomofo・注音字母
     - Bopomofo Extension-A: [U+16FA0–U+16FAF]・注音字母扩充-A
@@ -299,6 +299,9 @@
   - Lontara Bilang-bilang・隆塔拉比朗比朗文字
     - Lontara Bilang-bilang: [U+1E7C0–U+1E7DF]・隆塔拉比朗比朗
     > 依据《印度尼西亚汉译音表》译作「隆塔拉比朗比朗」。
+
+  - 〓Byblos・比布鲁斯文字
+    - Byblos: [U+1EB90–U+1EBFF]・比布鲁斯
 
 - **TIP**
 
