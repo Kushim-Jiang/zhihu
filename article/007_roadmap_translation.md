@@ -281,8 +281,11 @@
   - Chola・朱罗文字
     - Chola: [U+1E600–U+1E65F]・朱罗
 
-  - Chalukya・遮娄其文字
+  - 〓Chalukya・遮娄其文字
     - Chalukya: [U+1E660–U+1E6BF]・遮娄其
+
+  - Box-Headed・方头文字
+    - Box Headed: [U+1E660–U+1E6BF]・方头文
 
   - Yo Lai Tay・傣侥文字
     - Yo Lai Tay: [U+1E6C0–U+1E6FF]・傣侥
@@ -340,11 +343,11 @@
   - Pitman Shorthand・皮特曼速记
     - Pitman Shorthand: [U+1BCB0–U+1BCFF]・皮特曼速记
 
-  - Flute・笛谱
-    - Flute: [U+1D250–U+1D26F]・笛谱
+  - Western Musical Symbols・西方音乐符号
+    - Musical Symbols Supplement: [1D250–1D28F]・音乐符号增补
 
-  - Pipa・琵琶谱
-    - Pipa: [U+1D280–U+1D2AF]・琵琶谱
+  - Flute and Pipa・笛谱与琵琶谱
+    - Flute and Pipa: [U+1D290–U+1D2BF]・笛谱与琵琶谱
 
   - Jianzi Musical Notation・减字音乐记号
     - Jianzi Format Controls: [U+1DAE0–U+1DAFF]・减字格式控制符
@@ -356,7 +359,7 @@
 
   - Letterlike Symbols・类字符号
     - Mathematical Alphanumeric Symbols Supplement: [U+1D380–U+1D3FF]・数学字母数字符号增补
-    - Arabic Supplemental Symbols: [U+1EF00–U+1EF3F]・阿拉伯增补符号
+    - 〓Arabic Supplemental Symbols: [U+1EF00–U+1EF3F]・阿拉伯增补符号
 
   - Numerals・数字
     - Persian Siyaq Numbers: [U+1EC00–U+1EC6F]・波斯帐目数字
