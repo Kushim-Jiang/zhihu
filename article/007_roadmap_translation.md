@@ -13,10 +13,6 @@
   - Shavian・萧伯纳文字
     - Shavian Quikscript Extensions: [U+103E0–U+103FF]・萧伯纳速写扩充
 
-  - Todhri・托兹里文字
-    - Todhri: [U+105C0–U+105FF]・托兹里
-    > Todhri 为阿尔巴尼亚语 Todhri /ˈtoðri/，依据《阿尔巴尼亚汉译音表》译作「托兹里」。
-
   - Proto-Sinaitic・原始西奈文字
     - Proto-Sinaitic: [U+108B0–U+108DF]・原始西奈
 
@@ -39,10 +35,6 @@
   - Baburi・巴布尔文字
     - Baburi: [U+10BE0–U+10BFF]・巴布尔
 
-  - Garay・加拉伊文字
-    - Garay: [U+10D40–U+10D8F]・加拉伊
-    > Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》译作「加拉伊」。
-
   - Arabic・阿拉伯文字
     - Arabic Extended-D: [U+10D90–U+10E5F]・阿拉伯扩充-D
 
@@ -50,21 +42,12 @@
     - Landa: [U+11250–U+1127F]・伦达
     > Landa 来自旁遮普语 Laṇḍā，依据《印地汉译音表》译作「伦达」。
 
-  - Tulu-Tigalari・图卢蒂格拉里文字
-    - Tulu-Tigalari: [U+11380–U+113FF]・图卢蒂格拉里
-    > Tulu 来自图卢语 Tulu，依据《印地汉译音表》译作「图卢」。Tigalari 来自图卢语 Tigaḷāri，依据《印地汉译音表》译作「蒂格拉里」。
-    >
-    > 陈永龄 (主编). 民族词典 [M]. 1987.
-
   - Tani・塔尼文字
     - Tani: [U+114E0–U+114FF]・塔尼
     > Tani 来自塔尼语 Taanei [tani]，依据《印地汉译音表》译作「塔尼」。
 
   - Ranjana・兰札文字
     - Ranjana: [U+11500–U+1157F]・兰札
-
-  - Myanmar・缅甸文字
-    - Myanmar Extended-C: [U+116D0–U+116FF]・缅甸扩充-C
 
   - 〓Jenticha・杰蒂切文字
     - Jenticha: [U+116D0–U+116FF]・杰蒂切
@@ -94,10 +77,6 @@
     - Leke: [U+11B80–U+11BBF]・莱革
     > Leke 来源待考，暂依据《泰汉译音表》译作「莱革」。
 
-  - Sunuwar・苏努瓦尔
-    - Sunuwar: [U+11BC0–U+11BFF]・苏努瓦尔
-    > 解放军外国语学院亚洲研究中心 (编). 东方语言文化论丛 第34卷 [M]. 2015.
-
   - 〓Khambu Rai・坎布拉伊文字
     - Khambu Rai: [U+11BC0–U+11BFF]・坎布拉伊
     > 刘伉. 世界综合地图集 [M]. 2017.
@@ -119,14 +98,18 @@
     - Pallava: [U+11F60–U+11FAF]・帕拉瓦
 
   - Sumero-Akkadian・苏美尔-阿卡德文字
-    - Proto-Cuneiform: [U+12580–U+12ECF]・原始楔形文字
+    - Archaic Cuneiform Numerals: [U+12590–U+1268F]・古楔形文字数字
+    - Proto-Cuneiform: [U+12690–U+12ECF]・原始楔形文字
 
   - Egyptian Hieroglyphs・埃及圣书体文字
-    - Egyptian Hieroglyphs Extended-A: [U+13460–U+143FF]・埃及圣书体扩充-A
     - Egyptian Hieroglyphs Extended-B: [U+14680–U+151FF]・埃及圣书体扩充-B
 
   - Mayan Hieroglyphs・玛雅象形文字
     - Mayan Hieroglyphs: [U+15500–U+15AFF]・玛雅象形文字
+
+  - Koré Sébèli・科雷塞贝利文字
+    - Kore Sebeli: [U+15B00–U+15B]・科雷塞贝利
+    > Koré Sébèli 来自索索语 Koré Sébèli [koré sébèli]，其中 acute 表示高调，grave 表示低调，依据《班图汉译音表》译作「科雷塞贝利」，但该译音表不考虑声调。
 
   - Mandombe・曼东贝文字
     - Mandombe: [U+15B80–U+15FFF]・曼东贝
@@ -140,13 +123,9 @@
     - Tengwar: [U+16080–U+160FF]・滕格瓦
     > J. R. R. 托尔金, 艾伦・李图, 邓嘉宛 (译), 杜蕴慈 (译). 魔戒 第3部 王者归来 插图本 [M]. 2014.
 
-  - Gurung Khema・古隆凯玛文字
-    - Gurung Khema: [U+16100–U+1613F]・古隆凯玛
-    > Khema 来自古隆语 Khema [kʰemaː]，依据《印地汉译音表》译作「凯玛」。又 Khema 可能来源于人名 Khemā，按《欧亚备要・尼雅遗址与于阗史研究》译作「支摩」，待考。
-
-  - Kurux Banna・库鲁赫巴纳文字
-    - Kurux Banna: [U+16140–U+1618F]・库鲁赫巴纳
-    > Banna 来自库鲁赫语 Bannā [banaː]，依据《印地汉译音表》译作「巴纳」。
+  - Kurukh Banna・库鲁克巴纳文字
+    - Kurukh Banna: [U+16140–U+1618F]・库鲁克巴纳
+    > Banna 来自库鲁克语 Bannā [banaː]，依据《印地汉译音表》译作「巴纳」。
 
   - 〓Khe Prih・凯普里赫文字
     - Khe Prih: [U+16140–U+1617F]・凯普里赫
@@ -170,10 +149,6 @@
     - Tikamuli: [U+16D00–U+16D3F]・蒂卡穆利
     > Tikamuli 来自 तिकामुली (tikāmulī)，依据《印地汉译音表》译作「蒂卡穆利」。
 
-  - Kirat Rai・基勒特赖文字
-    - Kirat Rai: [U+16D40–U+16D7F]・基勒特赖
-    > Kirat Rai 来自班塔瓦语 kirat rai，依据《印地汉译音表》译作「基勒特赖」。
-
   - Chisoi・奇索伊文字
     - Chisoi: [U+16D80–U+16DAF]・奇索伊
     > Chisoi 来自库尔马利语 (kurhmaali /kuɽmali/) cisai /tʃisɔi/，依据《孟加拉汉译音表》译作「奇索伊」。
@@ -186,26 +161,21 @@
     - Mwangwego: [U+16E00–U+16E3F]・姆万圭戈
     > 依据《班图汉译音表》译作「姆万圭戈」。
 
-  - Beria Erfe・贝里烙印文字
-    - Beria Erfe: [U+16EA0–U+16ECF]・贝里烙印文字
-    > Beria 中 Beri 指贝里人，-a 表示「嘴」。Erfe 表示烙印记号，即为牲畜打上烙印时使用的用于区分氏族的图案。
-    >
-    > 埃尔·法西 (主编). 非洲通史·第三卷——七世纪至十一世纪的非洲 [M]. 1993.
-
   - Bopomofo・注音字母
     - Bopomofo Extension-A: [U+16FA0–U+16FAF]・注音字母扩充-A
 
   - Han・汉字
     - Kanbun Extended-A: [U+16FB0–U+16FDF]・汉文扩充-A
 
-- Tangut・西夏文字
-  - Tangut Components Supplement: [U+18D80–U+18DFF]・西夏构件增补
-
-  - Khitan Ideographs・契丹大字
-    - Khitan Ideographs: [U+18E00–U+195FF]・契丹大字
+  - Tangut・西夏文字
+    - Tangut Components Supplement: [U+18D80–U+18DFF]・西夏构件增补
 
   - Jurchen・女真文字
-    - Jurchen: [U+19600–U+19B9F]・女真
+    - Jurchen: [U+18E00–U+1919F]・女真
+    - Jurchen Radicals: [U+191A0–U+191DF]・女真部首
+
+  - Khitan Large Script・契丹大字
+    - Khitan Large Script: [U+19200–U+199FF]・契丹大字
 
   - Pau Cin Hau・包钦豪文字
     - Pau Cin Hau Syllabary: [U+19E00–U+1A2FF]・包钦豪音节文字
@@ -232,8 +202,8 @@
   - Shuishu Logograms・水书语素文字
     - Shuishu Logograms: [U+1B300–U+1B5FF]・水书语素文字
 
-  - Lisu Syllabic・傈僳音节文字
-    - Lisu Syllabic: [U+1B600–U+1B9FF]・傈僳音节文字
+  - Lisu Syllabic Script・傈僳音节文字
+    - Lisu Syllabic Script: [U+1B600–U+1B9FF]・傈僳音节文字
 
   - Indus・印度河文字
     - Indus: [U+1BA00–U+1BB8F]・印度河文
@@ -247,6 +217,10 @@
   - 〓Rongorongo・罗鄂罗鄂文字
     - Rongorongo: [U+1CA80–U+1CDBF]・罗鄂罗鄂
     > Rongorongo 来自拉帕努伊语，由于拉帕努伊语的音节结构为 \[C\]V，不存在复辅音或辅音韵尾，因而音节为 ro·ngo·ro·ngo，依据《高棉汉译音表》译作「罗鄂罗鄂」。
+
+  - Sheek Bakrii Saphaloo・谢克巴克里萨帕洛文字
+    - Sheek Bakrii Saphaloo: [U+1C800–U+1CB2F]・谢克巴克里萨帕洛
+    > Sheek Bakrii Saphaloo 来自奥罗莫语人名，依据《阿姆哈拉汉译音表》译作「谢克・巴克里・萨帕洛」。
 
   - Eebee Hmong・伊比苗文字
     - Eebee Hmong: [U+1E150–U+1E1FF]・伊比苗
@@ -274,10 +248,6 @@
   - Brusha・勃律文字
     - Brusha: [U+1E5A0–U+1E5CF]・勃律
 
-  - Ol Onal・奥尔奥诺尔
-    - Ol Onal: [U+1E5D0–U+1E5FF]・奥尔奥诺尔
-    > Ol Onal 来自布米杰语 ôl ônôl /ɔl ɔnɔl/，依据《印地汉译音表》译作「奥尔奥诺尔」。
-
   - Chola・朱罗文字
     - Chola: [U+1E600–U+1E65F]・朱罗
 
@@ -287,8 +257,8 @@
   - Box-Headed・方头文字
     - Box Headed: [U+1E660–U+1E6BF]・方头文
 
-  - Yo Lai Tay・傣侥文字
-    - Yo Lai Tay: [U+1E6C0–U+1E6FF]・傣侥
+  - Tai Yo・傣侥文字
+    - Tai Yo: [U+1E6C0–U+1E6FF]・傣侥
 
   - Lampung・楠榜文字
     - Lampung: [U+1E700–U+1E73F]・楠榜
@@ -308,27 +278,14 @@
 
 - **TIP**
 
-  - Small Seal・小篆
-    - Small Seal: [U+38000–U+3AB9F]・小篆
+  - Han・汉字
+    - CJK Unified Ideographs Extension J: [U+323B0–U+3347F]・中日韩统一表意文字扩充 J
+
+  - Seal Script・篆体
+    - Seal Script: [U+38000–U+3AB9F]・篆体
 
   - 〓Oracle Bone・甲骨文字
     - Oracle Bone: [U+34400–U+35BFF]・甲骨
-
-- **Not the Roadmap**
-
-  - Klingon pIQaD・克林贡皮卡德文字
-
-  - Aiha・艾哈文字
-
-  - Jindai・神代文字
-
-  - Sarati・萨拉蒂文字
-
-  - Aymara・艾马拉文字
-
-  - Paucartambo・保卡坦博文字
-
-  - Tărtăria・特尔特里亚文字
 
 #### Notational Systems・记号系统
 
@@ -370,3 +327,19 @@
     - Symbols for Legacy Computing Supplement: [U+1CC00–U+1CEBF]・遗留计算机增补符号
     - Miscellaneous Symbols Supplement: [U+1CEC0–U+1CEFF]・各式符号增补
     - Extended Pictographic Characters: [U+1FC00–U+1FFFF]・扩充图形符号
+
+#### Not the Roadmap
+
+- Klingon pIQaD・克林贡皮卡德文字
+
+- Aiha・艾哈文字
+
+- Jindai scripts・神代文字
+
+- Sarati・萨拉蒂文字
+
+- Aymara・艾马拉文字
+
+- Paucartambo・保卡坦博文字
+
+- Tărtăria・特尔特里亚文字

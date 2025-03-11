@@ -5,8 +5,8 @@
 ##### Europe-Ⅰ・欧洲-Ⅰ
 
 - Latin・拉丁文字
-  - Letters of Basic Latin: U+0041–U+007A・基本拉丁
-  - Letters of the Latin-1 Supplement: U+00C0–U+00FF・拉丁-1 增补
+  - Basic Latin: U+0000–U+007F・基本拉丁
+  - Latin-1 Supplement: U+0080–U+00FF・拉丁-1 增补
   - Latin Extended-A: U+0100–U+017F・拉丁扩充-A
   - Latin Extended-B: U+0180–U+024F・拉丁扩充-B
   - IPA Extensions: U+0250–U+02AF・国际音标扩充
@@ -18,7 +18,6 @@
   - Latin Extended-E: U+AB30–U+AB6F・拉丁扩充-E
   - Latin Extended-F: U+10780–U+107BF・拉丁扩充-F
   - Latin Extended-G: U+1DF00–U+1DFFF・拉丁扩充-G
-  - Latin Ligatures: U+FB00–U+FB06・拉丁连字
 
 - Greek・希腊文字
   - Greek: U+0370–U+03FF・希腊
@@ -28,13 +27,13 @@
 - Coptic・科普特文字
   - Coptic: U+2C80–U+2CFF・科普特
 
-- Cyrillic・西里尔文字
-  - Cyrillic: U+0400–U+04FF・西里尔
-  - Cyrillic Supplement: U+0500–U+052F・西里尔增补
-  - Cyrillic Extended-A: U+2DE0–U+2DFF・西里尔扩充-A
-  - Cyrillic Extended-B: U+A640–U+A69F・西里尔扩充-B
-  - Cyrillic Extended-C: U+1C80–U+1C8F・西里尔扩充-C
-  - Cyrillic Extended-D: U+1E030–U+1E08F・西里尔扩充-D
+- Cyrillic・基里尔文字
+  - Cyrillic: U+0400–U+04FF・基里尔
+  - Cyrillic Supplement: U+0500–U+052F・基里尔增补
+  - Cyrillic Extended-A: U+2DE0–U+2DFF・基里尔扩充-A
+  - Cyrillic Extended-B: U+A640–U+A69F・基里尔扩充-B
+  - Cyrillic Extended-C: U+1C80–U+1C8F・基里尔扩充-C
+  - Cyrillic Extended-D: U+1E030–U+1E08F・基里尔扩充-D
 
 - Glagolitic・格拉哥里文字
   - Glagolitic: U+2C00–U+2C5F・格拉哥里
@@ -50,7 +49,7 @@
   - Georgian Supplement: U+2D00–U+2D2F・格鲁吉亚增补
 
 - Modifier Letters・修饰字母
-  - Spacing Modifier Letters: U+02B0–U+02FF・有距修饰字母
+  - Spacing Modifier Letters: U+02B0–U+02FF・有宽修饰字母
   - Modifier Tone Letters: U+A700–U+A71F・修饰声调字母
 
 - Combining Marks・结合记号
@@ -85,7 +84,7 @@
   - Old Italic: U+10300–U+1032F・古意大利
 
 - Runic・卢恩文字
-  - Runic: U+16A0–U+16F0・卢恩
+  - Runic: U+16A0–U+16FF・卢恩
 
 - Old Hungarian・古匈牙利文字
   - Old Hungarian: U+10C80–U+10CFF・古匈牙利
@@ -104,6 +103,10 @@
   - Vithkuqi: U+10570–U+105BF・维斯库奇
   > Vithkuqi 为阿尔巴尼亚语 Vithkuqi [viθkucçi]，依据《阿尔巴尼亚汉译音表》译作「维斯库奇」。
 
+- Todhri・托兹里文字
+  - Todhri: U+105C0–U+105FF・托兹里
+  > Todhri 为阿尔巴尼亚语 Todhri /ˈtoðri/，依据《阿尔巴尼亚汉译音表》译作「托兹里」。
+
 - Old Permic・古彼尔姆文字
   - Old Permic: U+10350–U+1037F・古彼尔姆
 
@@ -118,7 +121,7 @@
 
 - Hebrew・希伯来文字
   - Hebrew: U+0590–U+05FF・希伯来
-  - Alphabetic Presentation Forms: U+FB1D–U+FB4F・字母显现形式
+  - Alphabetic Presentation Forms: U+FB00–U+FB4F・字母显现形式
 
 - Arabic・阿拉伯文字
   - Arabic: U+0600–U+06FF・阿拉伯
@@ -204,6 +207,7 @@
 
 - Egyptian Hieroglyphs・埃及圣书体文字
   - Egyptian Hieroglyphs: U+13000–U+1342F・埃及圣书体
+  - Egyptian Hieroglyphs Extended-A: U+13460–U+143FF・埃及圣书体扩充-A
   - Egyptian Hieroglyph Format Controls: U+13430–U+1345F・埃及圣书体格式控制符
 
 - Meroitic・麦罗埃文字
@@ -266,7 +270,7 @@
   > Newa 来自 नेवा: (Nevāḥ)，依据《印地汉译音表》译作「内瓦」。
 
 - Tibetan・藏文字
-  - Tibetan: U+0F00–U+0FFF・ 藏文
+  - Tibetan: U+0F00–U+0FFF・藏文
 
 - Mongolian・蒙文字
   - Mongolian: U+1800–U+18AF・蒙文
@@ -278,7 +282,7 @@
 
 - Meetei Mayek・米代文字
   - Meetei Mayek: U+ABC0–U+ABFF・米代文
-  - Meetei Mayek Extensions: U+AAE0–U+AAF6・米代文扩充
+  - Meetei Mayek Extensions: U+AAE0–U+AAFF・米代文扩充
   > Meetei Mayek 来自 mitei /mit̪ɐj/，依据译音表译作「米代」。
 
 - Mro・姆鲁文字
@@ -288,12 +292,19 @@
 - Warang Citi・瓦朗奇蒂文字
   - Warang Citi: U+118A0–U+118FF・瓦朗奇蒂
   > Warang Citi 来自霍语 Hbårŋ citi (warang chiti)，译作「瓦朗奇蒂」。
-  >
   > <https://www.unicode.org/L2/L2012/12118-n4259-warang-citi.pdf>
 
 - Ol Chiki・奥尔奇基文字
   - Ol Chiki: U+1C50–U+1C7F・奥尔奇基
   > Ol Chiki 来自桑达利语 ᱚᱞ ᱪᱤᱠᱤ /ɔl ciki/，译作「奥尔奇基」。从印地语 ओलचिकी (Ōlacikī) 依据《印地汉译音表》同样译作「奥尔奇基」。
+
+- Ol Onal・奥尔奥诺尔
+  - Ol Onal: U+1E5D0–U+1E5FF・奥尔奥诺尔
+  > Ol Onal 来自布米杰语 ôl ônôl /ɔl ɔnɔl/，依据《印地汉译音表》译作「奥尔奥诺尔」。
+
+- Nag Mundari・纳格蒙达里文字
+  - Nag Mundari: U+1E4D0–U+1E4FF・纳格蒙达里
+  > Mundari 来自 मुंडारी (Muṃḍārī)，依据《印地汉译音表》译作「蒙达里」。Nag 来自 ନାଗ (nāga)，依据《印地汉译音表》译作「纳格」。
 
 - Chakma・查克马文字
   - Chakma: U+11100–U+1114F・查克马
@@ -329,6 +340,18 @@
 - Tangsa・通萨文字
   - Tangsa: U+16A70–U+16ACF・通萨
   > Tangsa 来自通萨语 Taunɡc saz /tauŋ˦ sa˩/，依据《印地汉译音表》译作「通萨」。
+
+- Sunuwar・苏努瓦尔
+  - Sunuwar: U+11BC0–U+11BFF・苏努瓦尔
+  > 解放军外国语学院亚洲研究中心 (编). 东方语言文化论丛 第34卷 [M]. 2015.
+
+- Gurung Khema・古隆凯玛文字
+  - Gurung Khema: U+16100–U+1613F・古隆凯玛
+  > Khema 来自古隆语 Khema [kʰemaː]，依据《印地汉译音表》译作「凯玛」。又 Khema 可能来源于人名 Khemā，按《欧亚备要・尼雅遗址与于阗史研究》译作「支摩」，待考。
+
+- Kirat Rai・基勒特赖文字
+  - Kirat Rai: U+16D40–U+16D7F・基勒特赖
+  > Kirat Rai 来自班塔瓦语 kirat rai，依据《印地汉译音表》译作「基勒特赖」。
 
 ##### South and Central Asia-Ⅲ・南亚与中亚-Ⅲ
 
@@ -395,9 +418,8 @@
   - Khojki: U+11200–U+1124F・科杰基
   > Khojki 来自 खोजकी (Khōjakī)，依据《印地汉译音表》译作「科杰基」。
 
-- Nag Mundari・纳格蒙达里文字
-  - Nag Mundari: U+1E4D0–U+1E4FF・纳格蒙达里
-  > Mundari 来自 मुंडारी (Muṃḍārī)，依据《印地汉译音表》译作「蒙达里」。Nag 来自 ନାଗ (nāga)，依据《印地汉译音表》译作「纳格」。
+- Dogra・道格拉文字
+  - Dogra: U+11800–U+1184F・道格拉
 
 - Khudawadi・库达本德文字
   - Khudawadi: U+112B0–U+112FF・库达本德
@@ -434,8 +456,11 @@
   - Sora Sompeng: U+110D0–U+110FF・索拉索姆彭
   > Sora 即为索拉语，Sompeng 来自索拉语 ସଓମପଏଙ /sompeŋ/，译作「索姆彭」。
 
-- Dogra・道格拉文字
-  - Dogra: U+11800–U+1184F・道格拉
+- Tulu-Tigalari・图卢蒂格拉里文字
+  - Tulu-Tigalari: U+11380–U+113FF・图卢蒂格拉里
+  > Tulu 来自图卢语 Tulu，依据《印地汉译音表》译作「图卢」。Tigalari 来自图卢语 Tigaḷāri，依据《印地汉译音表》译作「蒂格拉里」。
+  >
+  > 陈永龄 (主编). 民族词典 [M]. 1987.
 
 ##### Southeast Asia-Ⅰ・东南亚-Ⅰ
 
@@ -449,6 +474,7 @@
   - Myanmar: U+1000–U+109F・缅甸
   - Myanmar Extended-A: U+AA60–U+AA7F・缅甸扩充-A
   - Myanmar Extended-B: U+A9E0–U+A9FF・缅甸扩充-B
+  - Myanmar Extended-C: U+116D0–U+116FF・缅甸扩充-C
 
 - Khmer・高棉文字
   - Khmer: U+1780–U+17FF・高棉
@@ -541,15 +567,16 @@
   - CJK Unified Ideographs Extension H: U+31350–U+323AF・中日韩统一表意文字扩充 H
   - CJK Unified Ideographs Extension I: U+2EBF0–U+2EE5F・中日韩统一表意文字扩充 I
   - CJK Compatibility Ideographs: U+F900–U+FAFF・中日韩兼容表意文字
-  - CJK Compatibility Ideographs Supplement: U+2F800–U+2FA1D・中日韩兼容表意文字增补
+  - CJK Compatibility Ideographs Supplement: U+2F800–U+2FA1F・中日韩兼容表意文字增补
   - Kanbun: U+3190–U+319F・汉文
-  - CJK and Kangxi Radicals: U+2E80–U+2FD5・中日韩与康熙部首
+  - Kangxi Radicals: U+2F00–U+2FDF・康熙部首
+  - CJK Radicals Supplement: U+2E80–U+2EFF・中日韩部首增补
   - CJK Strokes: U+31C0–U+31EF・中日韩笔画
   - CJK Symbols and Punctuation: U+3000–U+303F・中日韩符号与标点
   - Ideographic Symbols and Punctuation: U+16FE0–U+16FFF・表意文字符号与标点
 
 - Ideographic Description Characters・表意文字描述字符
-  - Ideographic Description Characters: U+2FF0–U+2FFB・表意文字描述字符
+  - Ideographic Description Characters: U+2FF0–U+2FFF・表意文字描述字符
 
 - Bopomofo・注音字母
   - Bopomofo: U+3100–U+312F・注音字母
@@ -559,7 +586,7 @@
   - Hiragana: U+3040–U+309F・平假名
   - Katakana: U+30A0–U+30FF・片假名
   - Katakana Phonetic Extensions: U+31F0–U+31FF・片假名音标扩充
-  - Small Kana Extension: U+1B130-U+1B16F・小型假名扩充
+  - Small Kana Extension: U+1B130–U+1B16F・小型假名扩充
   - Kana Supplement: U+1B000–U+1B0FF・假名增补
   - Kana Extended-A: U+1B100–U+1B12F・假名扩充-A
   - Kana Extended-B: U+1AFF0–U+1AFFF・假名扩充-B
@@ -572,7 +599,7 @@
   - Hangul Jamo Extended-A: U+A960–U+A97F・韩文字母扩充-A
   - Hangul Jamo Extended-B: U+D7B0–U+D7FF・韩文字母扩充-B
   - Hangul Compatibility Jamo: U+3130–U+318F・韩文兼容字母
-  - Hangul Syllables: U+AC00–U+D7A3・韩文音节
+  - Hangul Syllables: U+AC00–U+D7AF・韩文音节
 
 - Yi・彝文字
   - Yi Syllables: U+A000–U+A48F・彝文音节
@@ -637,6 +664,16 @@
 
 - Medefaidrin・梅代法伊德林文字
   - Medefaidrin: U+16E40–U+16E9F・梅代法伊德林
+
+- Garay・加拉伊文字
+  - Garay: U+10D40–U+10D8F・加拉伊
+  > Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》译作「加拉伊」。
+
+- Beria Erfe・贝里烙印文字
+  - Beria Erfe: U+16EA0–U+16ECF・贝里烙印文字
+  > Beria 中 Beri 指贝里人，-a 表示「嘴」。Erfe 表示烙印记号，即为牲畜打上烙印时使用的用于区分氏族的图案。
+  >
+  > 埃尔·法西 (主编). 非洲通史·第三卷——七世纪至十一世纪的非洲 [M]. 1993.
 
 ##### Americas・美洲
 
@@ -720,7 +757,7 @@
   - Supplemental Mathematical Operators: U+2A00–U+2AFF・增补数学运算符
   - Miscellaneous Mathematical Symbols-A: U+27C0–U+27EF・各式数学符号-A
   - Miscellaneous Mathematical Symbols-B: U+2980–U+29FF・各式数学符号-B
-  - Miscellaneous Symbols and Arrows: U+2B00–U+2B7F・各式符号与箭头
+  - Miscellaneous Symbols and Arrows: U+2B00–U+2BFF・各式符号与箭头
   - Arrows: U+2190–U+21FF・箭头
   - Supplemental Arrows-A: U+27F0–U+27FF・增补箭头-A
   - Supplemental Arrows-B: U+2900–U+297F・增补箭头-B
@@ -731,7 +768,7 @@
   - Control Pictures: U+2400–U+243F・控制图符
   - Miscellaneous Technical: U+2300–U+23FF・各式技术符号
   - Optical Character Recognition: U+2440–U+245F・光学字符识别
-  - Symbols for Legacy Computing: U+1FB00-U+1FBFF・传统计算机符号
+  - Symbols for Legacy Computing: U+1FB00–U+1FBFF・传统计算机符号
 
 - Geometrical Symbols・几何符号
   - Box Drawing: U+2500–U+257F・制表符
@@ -754,7 +791,7 @@
   - Playing Cards: U+1F0A0–U+1F0FF・扑克
   - Chess Symbols: U+1FA00–U+1FA6F・棋符号
   - Yijing Hexagram Symbols: U+4DC0–U+4DFF・易经六十四卦符号
-  - Tai Xuan Jing Symbols: U+1D300–U+1D356・太玄经符号
+  - Tai Xuan Jing Symbols: U+1D300–U+1D35F・太玄经符号
   - Ancient Symbols: U+10190–U+101CF・古代符号
   - Phaistos Disc Symbols: U+101D0–U+101FF・费斯托斯圆盘符号
 
@@ -767,18 +804,11 @@
 
 #### Special Areas and Format Characters・特殊区域与格式字符
 
-- Control Codes・控制码位
-  - C0 Controls: U+0000–U+001F・C0 控制符
-  - C1 Controls: U+0080–U+009F・C1 控制符
-
 - Layout Controls・布局控制符
 
-- Deprecated Format Characters・弃用格式字符
-  - Deprecated Format Characters: U+206A–U+206F・弃用格式字符
-
 - Variation Selectors・变体选择符
-  - Variation Selectors: U+FE00–U+FE1F・变体选择符
-  - Variation Selectors Supplement: U+FE00–U+FE1F・变体选择符增补
+  - Variation Selectors: U+FE00–U+FE0F・变体选择符
+  - Variation Selectors Supplement: U+E0100–U+E01EF・变体选择符增补
 
 - Private-Use Characters・私用字符
   - Private Use Area: U+E000–U+F8FF・私用区域
@@ -786,7 +816,6 @@
   - Supplementary Private Use Area-B: U+100000–U+10FFFD・增补私用区域-B
 
 - Surrogates Area・替代区域
-  - Surrogates Area: U+D800–U+DFFF・替代区域
   - High Surrogates: U+D800–U+DB7F・高位替代
   - High Private Use Surrogates: U+DB80–U+DBFF・高位私用替代
   - Low Surrogates: U+DC00–U+DFFF・低位替代
@@ -794,7 +823,7 @@
 - Noncharacters・非字符
 
 - Specials・特殊
-  - Byte Order Mark (BOM): U+FEFF・字节序记号
+  - Byte Order Mark (BOM): U+FEFF–U+FEFF・字节序记号
   - Specials: U+FFF0–U+FFF8・特殊
   - Annotation Characters: U+FFF9–U+FFFB・注释字符
   - Replacement Characters: U+FFFC–U+FFFD・替换字符
