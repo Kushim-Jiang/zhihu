@@ -23,21 +23,21 @@
 > - 香港特區政府，中文界面諮詢委員會．香港增補字符集－2008（HKSCS-2008）．2009-12．
 > - 香港特區政府，中文界面諮詢委員會．香港增補字符集－2016（HKSCS-2016）．2017-05．
 
-2000 年 9 月，由中文界面咨询委员会秘书处写成的 2000/07 号文件 [[5]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl072000.pdf) 中，由入境事务处提交的人名用字「龦」经审核通过。其粤语读音为 soeng4 [sœ:ŋ˨˩]，与「常」同音，故推荐普通话读音为 cháng。
+2000 年 9 月，由中文界面咨询委员会秘书处写成的 2000/07 号文件 [[5]](https://www.ccli.gov.hk/doc/cl072000.pdf) 中，由入境事务处提交的人名用字「龦」经审核通过。其粤语读音为 soeng4 [sœ:ŋ˨˩]，与「常」同音，故推荐普通话读音为 cháng。
 
-2001 年 1 月，由中文界面咨询委员会秘书处写成的 2001/03 号文件 [[6]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl032001.pdf) 中，由职业训练局提交的专名用字「龧」经审核通过。其粤语读音为 syu2 [sy:˧˥]，与「暑」同音，故推荐普通话读音为 shǔ。
+2001 年 1 月，由中文界面咨询委员会秘书处写成的 2001/03 号文件 [[6]](https://www.ccli.gov.hk/doc/cl032001.pdf) 中，由职业训练局提交的专名用字「龧」经审核通过。其粤语读音为 syu2 [sy:˧˥]，与「暑」同音，故推荐普通话读音为 shǔ。
 
-2001 年 1 月，由中文界面咨询委员会秘书处写成的 2001/03 号文件 [[6]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl032001.pdf) 中，由公司注册处提交的专名用字「龨」、「龩」、「龪」、「龫」、「龬」经审核通过。其粤语读音分别为 zeoi1 [tsɵy˥]、gan3 [kɐn˧]、jan4 [jɐn˨˩]、gon3 [kɔ:n˧]、mong5 [mɔ:ŋ˩˧]，分别与「隹」、「靳」、「人」、「幹」、「罔」同音，故推荐普通话读音为 zhuī、jìn、rén、gàn、wǎng。
+2001 年 1 月，由中文界面咨询委员会秘书处写成的 2001/03 号文件 [[6]](https://www.ccli.gov.hk/doc/cl032001.pdf) 中，由公司注册处提交的专名用字「龨」、「龩」、「龪」、「龫」、「龬」经审核通过。其粤语读音分别为 zeoi1 [tsɵy˥]、gan3 [kɐn˧]、jan4 [jɐn˨˩]、gon3 [kɔ:n˧]、mong5 [mɔ:ŋ˩˧]，分别与「隹」、「靳」、「人」、「幹」、「罔」同音，故推荐普通话读音为 zhuī、jìn、rén、gàn、wǎng。
 
-2001 年 6 月，由中文界面咨询委员会秘书处写成的 2001/07 号文件 [[7]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl072001.pdf) 中，由公司注册处提交的专名用字「龭」、「龮」经审核通过。其粤语读音分别为 ji6 [ji:˨]、jik6 [jɪk˨]，分别与「异」、「翼」同音，故推荐普通话读音为 yì、yì。
+2001 年 6 月，由中文界面咨询委员会秘书处写成的 2001/07 号文件 [[7]](https://www.ccli.gov.hk/doc/cl072001.pdf) 中，由公司注册处提交的专名用字「龭」、「龮」经审核通过。其粤语读音分别为 ji6 [ji:˨]、jik6 [jɪk˨]，分别与「异」、「翼」同音，故推荐普通话读音为 yì、yì。
 
-2001 年 11 月，由中文界面咨询委员会秘书处写成的 2001/10 号文件 [[8]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl102001.pdf) 中，由公司注册处提交的专名用字「龯」经审核通过。其粤语读音为 mou6 [mou˨]，与「戊」同音，故推荐普通话读音为 wù。
+2001 年 11 月，由中文界面咨询委员会秘书处写成的 2001/10 号文件 [[8]](https://www.ccli.gov.hk/doc/cl102001.pdf) 中，由公司注册处提交的专名用字「龯」经审核通过。其粤语读音为 mou6 [mou˨]，与「戊」同音，故推荐普通话读音为 wù。
 
 以上 10 个字随后收入 HKSCS-2001 中。
 
-2002 年 12 月，由中文界面咨询委员会秘书处写成的 2002/09 号文件 [[9]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl092002.pdf) 中，由入境事务处提交的人名用字「龲」经审核通过。其粤语读音为 fu3 [fu:˧]，与「库」同音，故推荐普通话读音为 kù。此外，该字曾用于对译 Kurchatovium（即 Rutherfordium，𬬻），其普通话读音也为 kù。
+2002 年 12 月，由中文界面咨询委员会秘书处写成的 2002/09 号文件 [[9]](https://www.ccli.gov.hk/doc/cl092002.pdf) 中，由入境事务处提交的人名用字「龲」经审核通过。其粤语读音为 fu3 [fu:˧]，与「库」同音，故推荐普通话读音为 kù。此外，该字曾用于对译 Kurchatovium（即 Rutherfordium，𬬻），其普通话读音也为 kù。
 
-2003 年 10 月，由中文界面咨询委员会秘书处写成的 2003/03 号文件 [[10]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl032003.pdf) 中，由入境事务处提交的专名用字「龳」经审核通过。其粤语读音为 cam4 [tsʰɐm˨˩]、cim4 [tsʰi:m˨˩]，与「燅」同音，故推荐普通话读音为 xún。
+2003 年 10 月，由中文界面咨询委员会秘书处写成的 2003/03 号文件 [[10]](https://www.ccli.gov.hk/doc/cl032003.pdf) 中，由入境事务处提交的专名用字「龳」经审核通过。其粤语读音为 cam4 [tsʰɐm˨˩]、cim4 [tsʰi:m˨˩]，与「燅」同音，故推荐普通话读音为 xún。
 
 以上 2 个字随后收入 HKSCS-2004 中。
 
@@ -53,7 +53,7 @@
 > - IBM．ibm-950_P110-1999．1999．
 > - 財團法人中文數位化技術推廣基金會．Big5-2003．2003．
 
-「龰」来自行列输入法的字根，在行列 30 输入法和行列 40 输入法中该字根都位于「C」键上。此外，在《香港电脑汉字楷体字形参考指引》和《香港电脑汉字宋体（印刷体）字形参考指引》 [[11]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/terms/doc/glyph.pdf) 中，「龰」位于《香港电脑汉字楷体字形基础部件表》和《香港电脑汉字宋体（印刷体）字形基础部件表》的 264 号。在语言文字规范 GF 3001-1997《信息处理用 GB 13000.1 字符集汉字部件规范》中，「龰」位于《汉字基础部件表》的 23 组 52 号。因而推荐普通话读音为 zhǐ。
+「龰」来自行列输入法的字根，在行列 30 输入法和行列 40 输入法中该字根都位于「C」键上。此外，在《香港电脑汉字楷体字形参考指引》和《香港电脑汉字宋体（印刷体）字形参考指引》 [[11]](http://glyph.iso10646hk.net/chinese/download.jsp) 中，「龰」位于《香港电脑汉字楷体字形基础部件表》和《香港电脑汉字宋体（印刷体）字形基础部件表》的 264 号。在语言文字规范 GF 3001-1997《信息处理用 GB 13000.1 字符集汉字部件规范》中，「龰」位于《汉字基础部件表》的 23 组 52 号。因而推荐普通话读音为 zhǐ。
 
 「龱」的来源待考，推测其可能为「禼」、「𥝁」等字的字根。此外，作为汉字而非构件，「龱」同「四」，也同「囟」。
 
@@ -223,7 +223,7 @@
 
 - 《中国音乐词典・乐律学・乐学・工尺谱》：「现今通行的工尺谱字为上、尺、工、凡、六、五、乙（其低八度作一）等，相当于 do、re、mi、fa、sol、la、si，其高八度谱字末笔上挑，或加偏旁『亻』，如『上』字的高八度作『〓』或作『仩』，『尺』字的高八度作『〓』或作『伬』，高两个八度的谱字则末笔双挑或加偏旁『彳』，如『上』作『〓』或作『〓』等；其低八度谱字除『六』作『合』、『五』作『四』外，其余各谱字均以末笔向下撇表示，如『上』字低八度作『𪛚』，低两个八度的谱字末笔双撇，如『上』作『〓』等。」
 
-2009 年 9 月，由中文界面咨询委员会秘书处写成的 2009/06 号文件 [[27]](https://www.ogcio.gov.hk/sc/our_work/business/tech_promotion/ccli/cliac/doc/cl062009.pdf) 中，由教育局提交的人名用字「鿊」和「鿋」经审核通过。其粤语读音分别为 zi2 [tsi:˧˥] 和 hei1 [hei˥]，与「淽」和「禧」同音，故推荐普通话读音为 zhǐ 和 xī。
+2009 年 9 月，由中文界面咨询委员会秘书处写成的 2009/06 号文件 [[27]](https://www.ccli.gov.hk/doc/cl062009.pdf) 中，由教育局提交的人名用字「鿊」和「鿋」经审核通过。其粤语读音分别为 zi2 [tsi:˧˥] 和 hei1 [hei˥]，与「淽」和「禧」同音，故推荐普通话读音为 zhǐ 和 xī。
 
 #### U+9FCC
 
@@ -250,11 +250,9 @@
 
 #### U+9FD0
 
-2010 年 3 月 23 日，由香港特区政府写成的 IRG N1667 号文件 [[33]](https://drive.google.com/uc?id=1SDWZR2T8LU2sc-R0AJ5SwryVEntzyZBP&export=download) 中表示「䲤」和「鿐」不可被认同，因而需要分出一个码位。按已编码汉字的信息，应当分出「鿐」。
+2010 年 3 月 23 日，由香港特区政府写成的 IRG N1667 号文件 [[33]](https://www.unicode.org/irg/docs/n1667-Disunify.pdf) 中表示「䲤」和「鿐」不可被认同，因而需要分出一个码位。按已编码汉字的信息，应当分出「鿐」。但当时的 IRG #34 会议纪要 IRG N1690 号文件 [[34]](https://www.unicode.org/irg/docs/n1690-Resolutions.pdf) 未出现该话题。
 
-当时的 IRG #34 会议纪要 IRG N1690 号文件 [[34]](https://drive.google.com/uc?id=1Idkl6PZjJ31CBN6UrW6et9Hx3T395Ho_&export=download) 显示该话题已完成，但修改后的会议纪要 IRG N1690R 号文件 [[35]](https://drive.google.com/uc?id=1Zg5sO82VutVz3aQBobAlPADwHgc_z2ZU&export=download) 中该话题并未出现。
-
-2014 年 5 月 19 日，由香港特区政府写成的 IRG N1989 号文件 [[36]](https://drive.google.com/uc?id=166dUVWQBxVRDPg0gsuitK-v49fXuEEyP&export=download) 中重提此事。并在当时 IRG #42 中达成一致意见。
+2014 年 5 月 19 日，由香港特区政府写成的 IRG N1989 号文件 [[36]](https://www.unicode.org/irg/docs/n1989-IRGN1667Reminder.pdf) 中重提此事。并在当时 IRG #42 中达成一致意见。
 
 「鿐」见于 GCCS 中，「䲤」为新加坡提交的汉字。其粤语读音为 zau2 [tsɐu˧˥]，与「酒」同音，故推荐普通话读音为 jiǔ。其含义「a kind of clam」直译为「一类蚌」，但无书证，不予采信。
 
@@ -262,13 +260,13 @@
 
 2012 年 10 月 19 日，由魏安（Andrew WEST）写成的 L2/12-333 号文件 [[31]](https://www.unicode.org/L2/L2012/12333-cjk-f.pdf) 中提交了 226 个汉字。这些汉字包括 105 个二简字、81 个《现代汉语词典》中的汉字、16 个《中日汉字形声论》（修订本，_Grammata Serica Recensa_）中的汉字、2 个化学元素用字、11 个西夏译音字和 11 个其它汉字。
 
-2012 年 11 月 8 日，由 UTC 写成的 IRG N1888 号文件 [[37]](https://drive.google.com/uc?id=1cBmNezRmvMCZPAnvH9rVev3vJK_oFRag&export=download) 中提交了 332 个汉字，其中包括了魏安 L2/12-333 中的汉字。但是提交时间过晚，而且未提供对应的点阵图。因此 UTC 转而将其提交至 UNC。
+2012 年 11 月 8 日，由 UTC 写成的 IRG N1888 号文件 [[37]](https://www.unicode.org/irg/docs/n1888-UTC-ExtensionF-sub.pdf) 中提交了 332 个汉字，其中包括了魏安 L2/12-333 中的汉字。但是提交时间过晚，而且未提供对应的点阵图。因此 UTC 转而将其提交至 UNC。
 
 2013 年 1 月 28 日，由 UTC 写成的 L2/13-032 号文件 [[38]](https://www.unicode.org/L2/L2013/13032-unc-proposal.pdf) 中提交了 22 个汉字。
 
-2013 年 5 月 20 日，由 UTC 写成的 IRG N1936 号文件 [[39]](https://drive.google.com/uc?id=19PmgzR5aXzRrf4WLayQVsfewHwFomk5F&export=download) 中将 22 个字缩减到 19 个汉字。
+2013 年 5 月 20 日，由 UTC 写成的 IRG N1936 号文件 [[39]](https://www.unicode.org/irg/docs/n1936r2-UNC-UTC.pdf) 中将 22 个字缩减到 19 个汉字。
 
-2014 年 5 月 15 日，由 UTC 写成的 IRG N2005 号文件 [[40]](https://drive.google.com/uc?id=1iGYNvMKUkRA8f3b8T1O8nkFbimIXRvu-&export=download) 中将 19 个字缩减到 5 个汉字。
+2014 年 5 月 15 日，由 UTC 写成的 IRG N2005 号文件 [[40]](https://www.unicode.org/irg/docs/n2005-UNC-UTC.pdf) 中将 19 个字缩减到 5 个汉字。
 
 按《增补满汉篆书鿑字汇》，「鿑」同「珏」。
 
