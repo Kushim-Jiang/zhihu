@@ -7,8 +7,8 @@
 - ADLaM・阿德拉姆文字❶
 
 - Amazigh/Berber Languages・阿马齐格语/柏柏尔语
-  - Tifinagh・提非纳文字❶
-  - Neo-Tifinagh・新提非纳文字
+  - Tifinagh・提菲纳格文字❶
+  - Neo-Tifinagh・新提菲纳格文字
 
 - Bamum・巴默姆文字❶
 

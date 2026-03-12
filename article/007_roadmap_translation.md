@@ -11,21 +11,20 @@
     - Southern Palaeohispanic: [U+10240–U+1027F]・南古西班牙
 
   - Shavian・萧伯纳文字
-    - Shavian Quikscript Extensions: [U+103E0–U+103FF]・萧伯纳速写扩充
+    - Shavian Quick Script: [U+103E0–U+103FF]・萧伯纳速记
 
   - Proto-Sinaitic・原始西奈文字
     - Proto-Sinaitic: [U+108B0–U+108DF]・原始西奈
 
-  - Sidetic・塞德文字
-    - Sidetic: [U+10940–U+1095F]・塞德
-    > 尼古拉斯·奥斯特勒. 语言帝国 世界语言史 [M]. 2011.
+  - Sidetic・西代文字
+    - Sidetic: [U+10940–U+1095F]・西代
 
   - Numidian・努米底亚文字
     - Numidian: [U+10960–U+1097F]・努米底亚
     > 陈永龄 (主编). 民族词典 [M]. 1987.
 
-  - Balti・巴尔蒂文字
-    - Balti: [U+10AA0–U+10ABF]・巴尔蒂
+  - Balti・伯尔蒂文字
+    - Balti: [U+10AA0–U+10ABF]・伯尔蒂
     > 陈永龄 (主编). 民族词典 [M]. 1987.
 
   - Pahlavi and Parthian・巴列维文字和帕提亚文字
@@ -49,40 +48,36 @@
   - Ranjana・兰札文字
     - Ranjana: [U+11500–U+1157F]・兰札
 
-  - 〓Jenticha・杰蒂切文字
-    - Jenticha: [U+116D0–U+116FF]・杰蒂切
-    > Jenticha 来自苏努瓦尔语 Jẽtica，依据《印地汉译音表》译作「杰蒂切」。
-
   - 〓Ahom・阿含文字
     - Ahom Extension: [U+11740–U+1174F]・阿含扩充
 
-  - Zou・藻文字
-    - Zou: [U+11750–U+117AF]・藻文
+  - Zou・佐文字
+    - Zou: [U+11750–U+117AF]・佐文
 
   - Pyu・彪文字
     - Pyu: [U+117B0–U+117FF]・彪文
     > Pyu 来自缅甸语 ပျူ [pjù]，依据《缅甸汉译音表》译作「彪」。
 
-  - Sirmauri・斯尔毛文字
-    - Sirmauri: [U+11850–U+1188F]・斯尔毛
+  - Sirmauri・锡尔毛尔文字
+    - Sirmauri: [U+11850–U+1188F]・锡尔毛尔
 
-  - Vatteluttu・沃泰卢图文字
-    - Vatteluttu: [U+11960–U+1199F]・沃泰卢图
-    > Vatteluttu 来自泰米尔语 Vaṭṭeḻuttu，依据《缅甸汉译音表》译作「沃泰卢图」。
+  - Vatteluttu・瓦泰卢图文字
+    - Vatteluttu: [U+11960–U+1199F]・瓦泰卢图
+    > Vatteluttu 来自泰米尔语 Vaṭṭeḻuttu，依据《缅甸汉译音表》译作「瓦泰卢图」。
 
   - Sharada・沙勒德文字
     - Sharada Supplement: [U+11B60–U+11B7F]・沙勒德增补
 
-  - Leke・莱革文字
-    - Leke: [U+11B80–U+11BBF]・莱革
-    > Leke 来源待考，暂依据《泰汉译音表》译作「莱革」。
+  - Leke・莱凯文字
+    - Leke: [U+11B80–U+11BBF]・莱凯
+    > Leke 来自 lɛkɛ，依据《缅甸汉译音表》译作「莱凯」。
 
   - 〓Khambu Rai・坎布拉伊文字
     - Khambu Rai: [U+11BC0–U+11BFF]・坎布拉伊
     > 刘伉. 世界综合地图集 [M]. 2017.
 
-  - Balti-B・巴尔蒂-B 文字
-    - Balti-B: [U+11CC0–U+11CFF]・巴尔蒂-B
+  - Balti-B・伯尔蒂-B 文字
+    - Balti-B: [U+11CC0–U+11CFF]・伯尔蒂-B
 
   - Tolong Siki・托隆西基文字
     - Tolong Siki: [U+11DB0–U+11DEF]・托隆西基
@@ -104,8 +99,8 @@
   - Egyptian Hieroglyphs・埃及圣书体文字
     - Egyptian Hieroglyphs Extended-B: [U+14680–U+151FF]・埃及圣书体扩充-B
 
-  - Mayan Hieroglyphs・玛雅象形文字
-    - Mayan Hieroglyphs: [U+15500–U+15AFF]・玛雅象形文字
+  - Mayan Hieroglyphs・玛雅
+    - Mayan Hieroglyphs: [U+15500–U+15AFF]・玛雅
 
   - Koré Sébèli・科雷塞贝利文字
     - Kore Sebeli: [U+15B00–U+15B]・科雷塞贝利
@@ -141,9 +136,9 @@
   - Afaka・阿法卡文字
     - Afaka: [U+16C80–U+16CCF]・阿法卡
 
-  - Khimhun Tangsa・基姆洪通萨文字
-    - Khimhun Tangsa: [U+16CD0–U+16CFF]・基姆洪
-    > Khimhun 来自通萨语 Khimhun /kʰimhun/，依据《印地汉译音表》译作「基姆洪」。
+  - Khimhun Tangsa・基姆洪唐萨文字
+    - Khimhun Tangsa: [U+16CD0–U+16CFF]・基姆洪唐萨
+    > Khimhun 来自唐萨语 Khimhun /kʰimhun/，依据《印地汉译音表》译作「基姆洪」。
 
   - Tikamuli・蒂卡穆利文字
     - Tikamuli: [U+16D00–U+16D3F]・蒂卡穆利
@@ -183,12 +178,12 @@
   - Eskaya・埃斯卡亚文字
     - Eskaya: [U+1A300–U+1A75F]・埃斯卡亚
 
-  - Rejang・雷姜文字
-    - Rejang Extended: [U+1A760–U+1A77F]・雷姜扩充
+  - Rejang・勒姜文字
+    - Rejang Extended: [U+1A760–U+1A77F]・勒姜扩充
 
   - Kaida・假屋文字
     - Kaida: [U+1A780–U+1A7FF]・假屋
-    > Kaida 来自「カイダ」，来自「カリヤ」（仮屋）。
+    > Kaida 来自「カイダー」，来自「カリヤ」（仮屋）。
 
   - Naxi Dongba・纳西东巴文字
     - Naxi Dongba: [U+1A800–U+1ACFF]・纳西东巴
@@ -218,13 +213,13 @@
     - Rongorongo: [U+1CA80–U+1CDBF]・罗鄂罗鄂
     > Rongorongo 来自拉帕努伊语，由于拉帕努伊语的音节结构为 \[C\]V，不存在复辅音或辅音韵尾，因而音节为 ro·ngo·ro·ngo，依据《高棉汉译音表》译作「罗鄂罗鄂」。
 
-  - Sheek Bakrii Saphaloo・谢克巴克里萨帕洛文字
-    - Sheek Bakrii Saphaloo: [U+1C800–U+1CB2F]・谢克巴克里萨帕洛
-    > Sheek Bakrii Saphaloo 来自奥罗莫语人名，依据《阿姆哈拉汉译音表》译作「谢克・巴克里・萨帕洛」。
+  - Shaaldaa・沙尔达文字
+    - Shaaldaa: [U+1C800–U+1CB2F]・沙尔达
+    > Shaaldaa 来自奥罗莫语 Shalda，暂无奥罗莫语汉译音表，暂译作「沙尔达」。
 
-  - Eebee Hmong・伊比苗文字
-    - Eebee Hmong: [U+1E150–U+1E1FF]・伊比苗
-    > Eebee 来自 Ib Npis /i˥ ᵐbi˩/，依据《老挝汉译音表》译作「伊比」。
+  - Eebee Hmong・依姆皮苗文字
+    - Eebee Hmong: [U+1E150–U+1E1FF]・依姆皮苗
+    > Eebee 来自 Ib Npis /i˥ ᵐpʰi˩/，由于缺少苗汉译音表，暂译为「依姆皮」。
 
   - Western Cham・西占文字
     - Western Cham: [U+1E200–U+1E26F]・西占
@@ -319,8 +314,8 @@
     - 〓Arabic Supplemental Symbols: [U+1EF00–U+1EF3F]・阿拉伯增补符号
 
   - Numerals・数字
-    - Persian Siyaq Numbers: [U+1EC00–U+1EC6F]・波斯帐目数字
-    - Diwani Siyaq Numbers: [U+1ECC0–U+1ECFF]・迪万尼帐目数字
+    - Persian Siyaq Numbers: [U+1EC00–U+1EC6F]・波斯账目数字
+    - Diwani Siyaq Numbers: [U+1ECC0–U+1ECFF]・财政账目数字
     > 「迪万（Diwan）」指莫卧儿时期民政总长官，「迪万尼（diwani）」指民事或税收大臣。
 
   - Miscellaneous Symbols・各式符号

@@ -27,13 +27,13 @@
 - Coptic・科普特文字
   - Coptic: U+2C80–U+2CFF・科普特
 
-- Cyrillic・基里尔文字
-  - Cyrillic: U+0400–U+04FF・基里尔
-  - Cyrillic Supplement: U+0500–U+052F・基里尔增补
-  - Cyrillic Extended-A: U+2DE0–U+2DFF・基里尔扩充-A
-  - Cyrillic Extended-B: U+A640–U+A69F・基里尔扩充-B
-  - Cyrillic Extended-C: U+1C80–U+1C8F・基里尔扩充-C
-  - Cyrillic Extended-D: U+1E030–U+1E08F・基里尔扩充-D
+- Cyrillic・西里尔文字
+  - Cyrillic: U+0400–U+04FF・西里尔
+  - Cyrillic Supplement: U+0500–U+052F・西里尔增补
+  - Cyrillic Extended-A: U+2DE0–U+2DFF・西里尔扩充-A
+  - Cyrillic Extended-B: U+A640–U+A69F・西里尔扩充-B
+  - Cyrillic Extended-C: U+1C80–U+1C8F・西里尔扩充-C
+  - Cyrillic Extended-D: U+1E030–U+1E08F・西里尔扩充-D
 
 - Glagolitic・格拉哥里文字
   - Glagolitic: U+2C00–U+2C5F・格拉哥里
@@ -70,14 +70,14 @@
   - Aegean Numbers: U+10100–U+1013F・爱琴数字
 
 - Cypriot Syllabary・塞浦路斯音节文字
-  - Cypriot Syllabary: U+10800–U+1083F・塞浦路斯音节文字
+  - Cypriot Syllabary: U+10800–U+1083F・塞浦路斯音节
 
 - Cypro-Minoan・塞浦路斯-米诺斯文字
   - Cypro-Minoan: U+12F90–U+12FFF・塞浦路斯-米诺斯
 
 - Ancient Anatolian Alphabets・古安纳托利亚字母
   - Lycian: U+10280–U+1029F・吕基亚
-  - Carian: U+102A0–U+102DF・加里亚
+  - Carian: U+102A0–U+102DF・卡里亚
   - Lydian: U+10920–U+1093F・吕底亚
 
 - Old Italic・古意大利文字
@@ -139,9 +139,8 @@
 - Samaritan・撒马利亚文字
   - Samaritan: U+0800–U+083F・撒马利亚
 
-- Mandaic・曼德恩文字
-  - Mandaic: U+0840–U+085F・曼德恩
-  > Henry Rogers. 文字系统 语言学的方法 [M]. 2016.
+- Mandaic・曼达文字
+  - Mandaic: U+0840–U+085F・曼达
 
 - Yezidi・耶西迪文字
   - Yezidi: U+10E80–U+10EBF・耶西迪
@@ -158,8 +157,8 @@
 - Phoenician・腓尼基文字
   - Phoenician: U+10900–U+1091F・腓尼基
 
-- Imperial Aramaic・王朝阿拉姆文字
-  - Imperial Aramaic: U+10840–U+1085F・王朝阿拉姆
+- Imperial Aramaic・帝国阿拉姆文字
+  - Imperial Aramaic: U+10840–U+1085F・帝国阿拉姆
 
 - Manichaean・摩尼文字
   - Manichaean: U+10AC0–U+10AFF・摩尼
@@ -177,9 +176,8 @@
   - Chorasmian: U+10FB0–U+10FDF・花剌子模
   > Olmstead A T. 波斯帝国史 [M]. 2017.
 
-- Elymaic・以利买文字
-  - Elymaic: U+10FE0–U+10FFF・以利买
-  > 尤利乌斯・威尔豪森, 乔戈 (译). 古以色列史 [M]. 2015.
+- Elymaic・埃利迈斯文字
+  - Elymaic: U+10FE0–U+10FFF・埃利迈斯
 
 - Nabataean・奈伯特文字
   - Nabataean: U+10880–U+108AF・奈伯特
@@ -212,7 +210,7 @@
 
 - Meroitic・麦罗埃文字
   - Meroitic Hieroglyphs: U+10980–U+1099F・麦罗埃圣书体
-  - Meroitic Cursive: U+109A0–U+109FF・麦罗埃世俗体
+  - Meroitic Cursive: U+109A0–U+109FF・麦罗埃草写体
 
 - Anatolian Hieroglyphs・安纳托利亚圣书体文字
   - Anatolian Hieroglyphs: U+14400–U+1467F・安纳托利亚圣书体
@@ -228,16 +226,14 @@
 - Bengali (Bangla)・孟加拉文字
   - Bengali: U+0980–U+09FF・孟加拉
 
-- Gurmukhi・果鲁穆奇文字
-  - Gurmukhi: U+0A00–U+0A7F・果鲁穆奇
-  > 夏征农, 陈至立 (主编). 大辞海・第3卷 宗教卷 [M]. 2015.
+- Gurmukhi・古尔穆基文字
+  - Gurmukhi: U+0A00–U+0A7F・古尔穆基
 
 - Gujarati・古吉拉特文字
   - Gujarati: U+0A80–U+0AFF・古吉拉特
 
-- Oriya (Odia)・奥里亚文字
-  - Oriya: U+0B00–U+0B7F・奥里亚
-  > 夏征农, 陈至立 (主编). 大辞海 民族卷 [M]. 2012.
+- Oriya (Odia)・奥里雅文字
+  - Oriya: U+0B00–U+0B7F・奥里雅
 
 - Tamil・泰米尔文字
   - Tamil: U+0B80–U+0BFF・泰米尔
@@ -247,9 +243,8 @@
   - Telugu: U+0C00–U+0C7F・泰卢固
   > 辞海 民族分册 [M]. 1982.
 
-- Kannada・卡纳达文字
-  - Kannada: U+0C80–U+0CFF・卡纳达
-  > 夏征农, 陈至立 (主编). 大辞海 民族卷 [M]. 2012.
+- Kannada・坎纳达文字
+  - Kannada: U+0C80–U+0CFF・坎纳达
 
 - Malayalam・马拉雅拉姆文字
   - Malayalam: U+0D00–U+0D7F・马拉雅拉姆
@@ -280,14 +275,13 @@
   - Limbu: U+1900–U+194F・林布
   > 汪永平. 尼泊尔宗教建筑 [M]. 2017.
 
-- Meetei Mayek・米代文字
-  - Meetei Mayek: U+ABC0–U+ABFF・米代文
-  - Meetei Mayek Extensions: U+AAE0–U+AAFF・米代文扩充
-  > Meetei Mayek 来自 mitei /mit̪ɐj/，依据译音表译作「米代」。
+- Meetei Mayek・迈泰文字
+  - Meetei Mayek: U+ABC0–U+ABFF・迈泰文
+  - Meetei Mayek Extensions: U+AAE0–U+AAFF・迈泰文扩充
+  > Meetei Mayek 来自 meitei /mɐjt̪ɐj/，依据《印地汉译音表》译作「迈泰」。
 
-- Mro・姆鲁文字
-  - Mro: U+16A40–U+16A6F・姆鲁
-  > Mro 来自 မရူ (mrū)，依据《孟加拉汉译音表》译作「姆鲁」。
+- Mro・木卢文字
+  - Mro: U+16A40–U+16A6F・木卢
 
 - Warang Citi・瓦朗奇蒂文字
   - Warang Citi: U+118A0–U+118FF・瓦朗奇蒂
@@ -298,13 +292,13 @@
   - Ol Chiki: U+1C50–U+1C7F・奥尔奇基
   > Ol Chiki 来自桑达利语 ᱚᱞ ᱪᱤᱠᱤ /ɔl ciki/，译作「奥尔奇基」。从印地语 ओलचिकी (Ōlacikī) 依据《印地汉译音表》同样译作「奥尔奇基」。
 
-- Ol Onal・奥尔奥诺尔
-  - Ol Onal: U+1E5D0–U+1E5FF・奥尔奥诺尔
-  > Ol Onal 来自布米杰语 ôl ônôl /ɔl ɔnɔl/，依据《印地汉译音表》译作「奥尔奥诺尔」。
+- Ol Onal・奥尔奥纳尔
+  - Ol Onal: U+1E5D0–U+1E5FF・奥尔奥纳尔
+  > Ol Onal 来自布米杰语 ôl ônôl /ɔl ɔnɔl/，依据《印地汉译音表》译作「奥尔奥纳尔」。
 
 - Nag Mundari・纳格蒙达里文字
   - Nag Mundari: U+1E4D0–U+1E4FF・纳格蒙达里
-  > Mundari 来自 मुंडारी (Muṃḍārī)，依据《印地汉译音表》译作「蒙达里」。Nag 来自 ନାଗ (nāga)，依据《印地汉译音表》译作「纳格」。
+  > Mundari 来自 मुंडारी (Muṇḍārī)，依据《印地汉译音表》译作「蒙达里」。Nag 为 Mundari 人名，Mundari 语只有五元音 aeiou，依据《印地汉译音表》译作「纳格」。
 
 - Chakma・查克马文字
   - Chakma: U+11100–U+1114F・查克马
@@ -314,19 +308,18 @@
   - Lepcha: U+1C00–U+1C4F・雷布查
   > 辞海 民族分册 [M]. 1982.
 
-- Saurashtra・索拉什特拉文字
-  - Saurashtra: U+A880–U+A8DF・索拉什特拉
-  > 安迪马里诺. 莫迪传 [M]. 2018.
+- Saurashtra・萨乌拉施特拉文字
+  - Saurashtra: U+A880–U+A8DF・萨乌拉施特拉
 
-- Masaram Gondi・马萨拉姆贡德文字
-  - Masaram Gondi: U+11D00–U+11D5F・马萨拉姆贡德
-  > Masaram 为人名，来自 मासाराम (māsārām)，依据《印地汉译音表》译作「马萨拉姆」。Gondi 来自贡德人所讲的贡德语。
+- Masaram Gondi・马萨拉姆贡迪文字
+  - Masaram Gondi: U+11D00–U+11D5F・马萨拉姆贡迪
+  > Masaram 为人名，来自 मासाराम (māsārām)，依据《印地汉译音表》译作「马萨拉姆」。Gondi 来自贡迪人所讲的贡迪语。
   >
   > 中国社会科学院民族研究所, 世界民族研究室资料组. 世界民族词目集录 [M].
 
-- Gunjala Gondi・贡贾尔贡德文字
-  - Gunjala Gondi: U+11D60–U+11DAF・贡贾尔贡德
-  > Gunjala 为地名，来自 गुंजल (gunjal)，依据《印地汉译音表》译作「贡贾尔」。
+- Gunjala Gondi・贡贾拉贡迪文字
+  - Gunjala Gondi: U+11D60–U+11DAF・贡贾拉贡迪
+  > Gunjala Gondi 来自 गुंजाला गोंडी लिपि (Gunjālā Gondi Lipi)，依据《印地汉译音表》译作「贡贾拉贡迪」。
 
 - Wancho・万乔文字
   - Wancho: U+1E2C0–U+1E2FF・万乔
@@ -337,9 +330,9 @@
 - Toto・托托文字
   - Toto: U+1E290–U+1E2BF・托托
 
-- Tangsa・通萨文字
-  - Tangsa: U+16A70–U+16ACF・通萨
-  > Tangsa 来自通萨语 Taunɡc saz /tauŋ˦ sa˩/，依据《印地汉译音表》译作「通萨」。
+- Tangsa・唐萨文字
+  - Tangsa: U+16A70–U+16ACF・唐萨
+  > Tangsa 来自唐萨语 ʈaŋsa，依据《印地汉译音表》译作「唐萨」。
 
 - Sunuwar・苏努瓦尔
   - Sunuwar: U+11BC0–U+11BFF・苏努瓦尔
@@ -349,9 +342,9 @@
   - Gurung Khema: U+16100–U+1613F・古隆凯玛
   > Khema 来自古隆语 Khema [kʰemaː]，依据《印地汉译音表》译作「凯玛」。又 Khema 可能来源于人名 Khemā，按《欧亚备要・尼雅遗址与于阗史研究》译作「支摩」，待考。
 
-- Kirat Rai・基勒特赖文字
-  - Kirat Rai: U+16D40–U+16D7F・基勒特赖
-  > Kirat Rai 来自班塔瓦语 kirat rai，依据《印地汉译音表》译作「基勒特赖」。
+- Kirat Rai・基拉特赖文字
+  - Kirat Rai: U+16D40–U+16D7F・基拉特赖
+  > Kirat Rai 来自班塔瓦语 kirāt rāi，依据《印地汉译音表》译作「基拉特赖」。
 
 ##### South and Central Asia-Ⅲ・南亚与中亚-Ⅲ
 
@@ -361,9 +354,9 @@
 - Kharoshthi・佉卢文字
   - Kharoshthi: U+10A00–U+10A5F・佉卢
 
-- Bhaiksuki・比克舒基文字
-  - Bhaiksuki: U+11C00–U+11C6F・比克舒基
-  > Bhaiksuki 来自 भैक्षुकी (bhikshukē)，依据《印地汉译音表》译作「比克舒基」。
+- Bhaiksuki・博伊克舒基文字
+  - Bhaiksuki: U+11C00–U+11C6F・博伊克舒基
+  > Bhaiksuki 转写为 Bhaikṣukī，依据《孟加拉汉译音表》译作「博伊克舒基」。
 
 - Phags-pa・八思巴字
   - Phags-pa: U+A840–U+A87F・八思巴
@@ -371,8 +364,8 @@
 - Marchen・玛尔钦体文字
   - Marchen: U+11C70–U+11CBF・玛尔钦体
 
-- Zanabazar Square・札那巴札尔方形字母
-  - Zanabazar Square: U+11A00–U+11A4F・札那巴札尔方形字母
+- Zanabazar Square・札那巴札尔方体
+  - Zanabazar Square: U+11A00–U+11A4F・札那巴札尔方体
 
 - Soyombo・索永布文字
   - Soyombo: U+11A50–U+11AAF・索永布
@@ -395,13 +388,13 @@
   - Syloti Nagri: U+A800–U+A82F・西洛蒂城体
   > Syloti 来自 ꠍꠤꠟꠐꠤ (Silôṭi) /silɔʈi/，译作「西洛蒂」。
 
-- Kaithi・开梯文字
-  - Kaithi: U+11080–U+110CF・开梯
+- Kaithi・凯蒂文字
+  - Kaithi: U+11080–U+110CF・凯蒂
   > 周有光. 世界文字发展史 [M]. 2003.
 
-- Sharada・沙勒德文字
-  - Sharada: U+11180–U+111DF・沙勒德
-  > Sharada 来自 शारदा (shārada)，依据《印地汉译音表》译作「沙勒德」。周有光之「萨拉达」讹。
+- Sharada・沙勒达文字
+  - Sharada: U+11180–U+111DF・沙勒达
+  > Sharada 来自 शारदा (shārada)，依据《印地汉译音表》译作「沙勒达」。周有光之「萨拉达」讹。
 
 - Takri・塔克里文字
   - Takri: U+11680–U+116CF・塔克里
@@ -410,20 +403,20 @@
 - Siddham・悉昙文字
   - Siddham: U+11580–U+115FF・悉昙
 
-- Mahajani・默哈杰内文字
-  - Mahajani: U+11150–U+1117F・默哈杰内
-  > Mahajani 来自 महाजनी (mahājanē)，依据《印地汉译音表》译作「默哈杰内」。
+- Mahajani・默哈杰尼文字
+  - Mahajani: U+11150–U+1117F・默哈杰尼
+  > Mahajani 来自 Mahājanī，依据《印地汉译音表》译作「默哈杰尼」。
 
 - Khojki・科杰基文字
   - Khojki: U+11200–U+1124F・科杰基
   > Khojki 来自 खोजकी (Khōjakī)，依据《印地汉译音表》译作「科杰基」。
 
-- Dogra・道格拉文字
-  - Dogra: U+11800–U+1184F・道格拉
+- Dogra・多格拉文字
+  - Dogra: U+11800–U+1184F・多格拉
 
-- Khudawadi・库达本德文字
-  - Khudawadi: U+112B0–U+112FF・库达本德
-  > Khudawadi 来自 खुदाबंद (khudāband)，依据《印地汉译音表》译作「库达本德」。
+- Khudawadi・胡达巴德文字
+  - Khudawadi: U+112B0–U+112FF・胡达巴德
+  > Khudawadi 来自 خدا آباد (xudā ābād)，依据《印地汉译音表》译作「胡达巴德」。
 
 - Multani・木尔坦文字
   - Multani: U+11280–U+112AF・木尔坦
@@ -434,19 +427,18 @@
 
 - Modi・莫迪文字
   - Modi: U+11600–U+1165F・莫迪
-  > Modi 来自马拉地语 मोडी (mōḍī)，依据《印地汉译音表》译作「莫迪」。
+  > Modi 来自马拉地语 मोडी (moḍī)，依据《印地汉译音表》译作「莫迪」。
 
 - Nandinagari・嫩迪城体文字
   - Nandinagari: U+119A0–U+119FF・嫩迪城体
   > Nandi 来自 नन्दि (nandi)，依据《印地汉译音表》译作「嫩迪」。
 
-- Grantha・格兰他文字
-  - Grantha: U+11300–U+1137F・格兰他
-  > 周有光. 世界文字发展史 [M]. 2003.
+- Grantha・格伦特文字
+  - Grantha: U+11300–U+1137F・格伦特
 
-- Dives Akuru・迪维希阿库鲁文字
-  - Dives Akuru: U+11900–U+1195F・迪维希阿库鲁
-  > Dives 即为迪维希语，Akuru 来自迪维希语 އަކުރު (‘akuru)，依据《僧伽罗汉译音表》译作「阿库鲁」。
+- Dives Akuru・迪维希文字
+  - Dives Akuru: U+11900–U+1195F・迪维希
+  > Dives 即为迪维希语，Akuru 表示字母。整词译为迪维希字母，今省去字母。
 
 - Ahom・阿含文字
   - Ahom: U+11700–U+1174F・阿含
@@ -492,20 +484,20 @@
 - Tai Viet・傣越文字
   - Tai Viet: U+AA80–U+AADF・傣越
 
-- Kayah Li・克耶利文字
-  - Kayah Li: U+A900–U+A92F・克耶利
-  > Kayah 即克耶语，Li 来自 ꤜꤟꤤ꤬ /lhi³¹/，依据《缅甸汉译音表》译作「利」。
+- Kayah Li・卡亚利文字
+  - Kayah Li: U+A900–U+A92F・卡亚利
+  > Kayah Li 来自 kaja lhi /ka˥ ja˧˩ lhi˩/，依据《印地汉译音表》译作「卡亚利」。
 
 - Cham・占文字
   - Cham: U+AA00–U+AA5F・占文
 
-- Pahawh Hmong・帕皓苗文字
-  - Pahawh Hmong: U+16B00–U+16B8F・帕皓苗
-  > Hmong 即苗语，Pahawh 来自 Phaj hauj /pʰa˥˨ hau˥˨/，译作「帕皓」。
+- Pahawh Hmong・帕豪苗文字
+  - Pahawh Hmong: U+16B00–U+16B8F・帕豪苗
+  > Hmong 即苗语，Pahawh 来自 Phaj hauj /pʰa˥˨ hau˥˨/，译作「帕豪」。
 
 - Nyiakeng Puachue Hmong・涅该布瓦启苗文字
   - Nyiakeng Puachue Hmong: U+1E100–U+1E14F・涅该布瓦启苗
-  > Nyiakeng Puachue 来自 Nyiajkeeb Puajtxwm /ɲia˥˨ kẽ˥ pua˥˨ tsɨ˨˩/，按声调译作「涅该布瓦启」。
+  > Nyiakeng Puachue 来自 Nyiajkeeb Puajtxwm /ɲiə˥˨ kẽ˥ puə˥˨ tsɨ˨˩/，按声调译作「涅该布瓦启」。
 
 - Pau Cin Hau・包钦豪文字
   - Pau Cin Hau: U+11AC0–U+11AFF・包钦豪
@@ -535,9 +527,8 @@
 - Javanese・爪哇文字
   - Javanese: U+A980–U+A9DF・爪哇
 
-- Rejang・雷姜文字
-  - Rejang: U+A930–U+A95F・雷姜
-  > 吴安其. 南岛语分类研究 [M]. 2009.
+- Rejang・勒姜文字
+  - Rejang: U+A930–U+A95F・勒姜
 
 - Batak・巴塔克文字
   - Batak: U+1BC0–U+1BFF・巴塔克
@@ -549,9 +540,9 @@
 - Makasar・望加锡文字
   - Makasar: U+11EE0–U+11EFF・望加锡
 
-- Kawi・克维文字
-  - Kawi: U+11F00–U+11F5F・克维
-  > Kawi 来自梵语 कवि (kavi)，依据《印地汉译音表》译作「克维」。
+- Kawi・卡维文字
+  - Kawi: U+11F00–U+11F5F・卡维
+  > Kawi 来自梵语 aksara kawi，依据《印度尼西亚汉译音表》译作「卡维」。
 
 ##### East Asia・东亚
 
@@ -575,12 +566,12 @@
   - CJK Symbols and Punctuation: U+3000–U+303F・中日韩符号与标点
   - Ideographic Symbols and Punctuation: U+16FE0–U+16FFF・表意文字符号与标点
 
-- Ideographic Description Characters・表意文字描述字符
-  - Ideographic Description Characters: U+2FF0–U+2FFF・表意文字描述字符
+- Ideographic Description Characters・表意文字描述符
+  - Ideographic Description Characters: U+2FF0–U+2FFF・表意文字描述符
 
-- Bopomofo・注音字母
-  - Bopomofo: U+3100–U+312F・注音字母
-  - Bopomofo Extended: U+31A0–U+31BF・注音字母扩充
+- Bopomofo・注音符号
+  - Bopomofo: U+3100–U+312F・注音符号
+  - Bopomofo Extended: U+31A0–U+31BF・注音符号扩充
 
 - Hiragana and Katakana・平假名与片假名
   - Hiragana: U+3040–U+309F・平假名
@@ -636,38 +627,38 @@
   - Osmanya: U+10480–U+104AF・伊斯马尼亚
   > Osmanya 来自 Cismaanya，依据《索马里汉译音表》译作「伊斯马尼亚」。
 
-- Tifinagh・提非纳文字
-  - Tifinagh: U+2D30–U+2D7F・提非纳
+- Tifinagh・提菲纳格文字
+  - Tifinagh: U+2D30–U+2D7F・提菲纳格
 
 - N’Ko・恩科文字
   - N’Ko: U+07C0–U+07FF・恩科
   > N’Ko 依据《班图汉译音表》译作「恩科」。
 
-- Vai・瓦伊文字
-  - Vai: U+A500–U+A63F・瓦伊
+- Vai・韦文字
+  - Vai: U+A500–U+A63F・韦文
 
-- Bamum・巴默姆文字
-  - Bamum: U+A6A0–U+A6FF・巴默姆
-  - Bamum Supplement: U+16800–U+16A3F・巴默姆增补
-  > Bamum 来自巴默姆语 Pamom /pǎˑmə̀m/，译作「巴默姆」。
+- Bamum・帕莫姆文字
+  - Bamum: U+A6A0–U+A6FF・帕莫姆
+  - Bamum Supplement: U+16800–U+16A3F・帕莫姆增补
+  > Bamum 来自帕莫姆语 Pamom /pǎˑmə̀m/，译作「帕莫姆」。
 
 - Bassa Vah・巴索奥瓦文字
   - Bassa Vah: U+16AD0–U+16AFF・巴索奥瓦
   > Bassa 即巴索奥语 (Ɓǎsɔ́ɔ̀)，Vah 译作「瓦」。
 
-- Mende Kikakui・门迪基卡奎文字
-  - Mende Kikakui: U+1E800–U+1E8DF・门迪基卡奎
-  > Mende 即门迪语，Kikakui 译作「基卡奎」。
+- Mende Kikakui・门德基卡库文字
+  - Mende Kikakui: U+1E800–U+1E8DF・门德基卡库
+  > Mende 即门德语，Kikakui 来自 Kikaku，译作「基卡库」。
 
 - Adlam・阿德拉姆文字
   - Adlam: U+1E900–U+1E95F・阿德拉姆
 
-- Medefaidrin・梅代法伊德林文字
-  - Medefaidrin: U+16E40–U+16E9F・梅代法伊德林
+- Medefaidrin・梅德法伊德林文字
+  - Medefaidrin: U+16E40–U+16E9F・梅德法伊德林
 
-- Garay・加拉伊文字
-  - Garay: U+10D40–U+10D8F・加拉伊
-  > Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》译作「加拉伊」。
+- Garay・加赖文字
+  - Garay: U+10D40–U+10D8F・加赖
+  > Garay 为沃洛夫语 Garay，依据《沃洛夫汉译音表》译作「加赖」。
 
 - Beria Erfe・贝里烙印文字
   - Beria Erfe: U+16EA0–U+16ECF・贝里烙印文字
@@ -686,12 +677,11 @@
   - Unified Canadian Aboriginal Syllabics Extended: U+18B0–U+18FF・统一加拿大原住民音节文字扩充
   - Unified Canadian Aboriginal Syllabics Extended-A: U+11AB0–U+11ABF・统一加拿大原住民音节文字扩充-A
 
-- Osage・奥色治文字
-  - Osage: U+104B0–U+104FF・奥色治
+- Osage・欧塞奇文字
+  - Osage: U+104B0–U+104FF・欧塞奇
 
-- Deseret・德撒律文字
-  - Deseret: U+10400–U+1044F・德撒律
-  > 蒋栋元. 走进神秘的殿堂 摩门教 [M]. 2011.
+- Deseret・德瑟雷特文字
+  - Deseret: U+10400–U+1044F・德瑟雷特
 
 #### Notational Systems・记号系统
 
@@ -723,8 +713,8 @@
 - Currency Symbols・货币符号
   - Currency Symbols: U+20A0–U+20CF・货币符号
 
-- Letterlike Symbols・类字符号
-  - Letterlike Symbols: U+2100–U+214F・类字符号
+- Letterlike Symbols・字母符号
+  - Letterlike Symbols: U+2100–U+214F・字母符号
   - Mathematical Alphanumeric Symbols: U+1D400–U+1D7FF・数学字母数字符号
   - Arabic Mathematical Alphabetic Symbols: U+1EE00–U+1EEFF・阿拉伯数学字母符号
 
@@ -737,9 +727,9 @@
   - Coptic Epact Numbers: U+102E0–U+102FF・科普特闰余数字
   - Rumi Numeral Symbols: U+10E60–U+10E7F・鲁米数字符号
   > Rumi 来自 ﺍﻟﺮﻭﻣﻲ (ālrūmī)，依据《阿拉伯汉译音表》译作「鲁米」。
-  - Siyaq Numerical Notation Systems・帐目数字记号系统
-    - Indic Siyaq Numbers: U+1EC70–U+1ECBF・印度帐目数字
-    - Ottoman Siyaq Numbers: U+1ED00–U+1ED4F・奥斯曼帐目数字
+  - Siyaq Numerical Notation Systems・账目数字记号系统
+    - Indic Siyaq Numbers: U+1EC70–U+1ECBF・印度账目数字
+    - Ottoman Siyaq Numbers: U+1ED00–U+1ED4F・奥斯曼账目数字
     > Siyâq 是萨珊名词 Siyâk（流水账）经阿拉伯文化之后的形式，它今天读作 siyah、siyahè 或 sikhè-hissab，即「记录」、「数目」或「账目」。
     >
     > 阿里・玛扎海里. 丝绸之路 中国 波斯文化交流史 [M]. 2014.
@@ -747,7 +737,7 @@
     - Counting Rod Numerals: U+1D360–U+1D37F・算筹数字
   - Fractions・分数
     - Number Forms: U+2150–U+218F・数字形式
-  - Common Indic Number Forms: U+A830–U+A83F・通用印度数字形式
+  - Common Indic Number Forms: U+A830–U+A83F・常用印度数字形式
 
 - Superscript and Subscript Symbols・上标与下标符号
   - Superscripts and Subscripts: U+2070–U+209F・上标与下标
@@ -768,10 +758,10 @@
   - Control Pictures: U+2400–U+243F・控制图符
   - Miscellaneous Technical: U+2300–U+23FF・各式技术符号
   - Optical Character Recognition: U+2440–U+245F・光学字符识别
-  - Symbols for Legacy Computing: U+1FB00–U+1FBFF・传统计算机符号
+  - Symbols for Legacy Computing: U+1FB00–U+1FBFF・遗留计算机符号
 
 - Geometrical Symbols・几何符号
-  - Box Drawing: U+2500–U+257F・制表符
+  - Box Drawing: U+2500–U+257F・制表符号
   - Block Elements: U+2580–U+259F・方块元素
   - Geometric Shapes: U+25A0–U+25FF・几何形状
   - Geometric Shapes Extended: U+1F780–U+1F7FF・几何形状扩充
@@ -788,8 +778,8 @@
   - Alchemical Symbols: U+1F700–U+1F77F・炼金术符号
   - Mahjong Tiles: U+1F000–U+1F02F・麻将牌
   - Domino Tiles: U+1F030–U+1F09F・多米诺牌
-  - Playing Cards: U+1F0A0–U+1F0FF・扑克
-  - Chess Symbols: U+1FA00–U+1FA6F・棋符号
+  - Playing Cards: U+1F0A0–U+1F0FF・扑克牌
+  - Chess Symbols: U+1FA00–U+1FA6F・棋类符号
   - Yijing Hexagram Symbols: U+4DC0–U+4DFF・易经六十四卦符号
   - Tai Xuan Jing Symbols: U+1D300–U+1D35F・太玄经符号
   - Ancient Symbols: U+10190–U+101CF・古代符号
